@@ -63,6 +63,10 @@
 
 <img align="left" alt="scbushan05's Github Stats" src="https://github-readme-stats.vercel.app/api?username=scbushan05&show_icons=true&hide_border=true" />
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scbushan05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://bushansirgur.in
 [twitter]: https://twitter.com/bushan_sirgur
 [youtube]: https://youtube.com/b2tech

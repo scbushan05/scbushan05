@@ -57,11 +57,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [01 - Setting up environment - NodeJS, Express, Mongoose and MongoDB](https://www.youtube.com/watch?v=mZKqKV3jq4g)
 - [18 Angular 9 and Spring Boot CRUD Tutorial - Sort expenses based on name and amount](https://www.youtube.com/watch?v=KSEvIlVOzyE)
 - [17 Angular 9 and Spring Boot CRUD Tutorial - Filter expenses based on expense name](https://www.youtube.com/watch?v=j8Q4X6oNa2U)
 - [16 Angular 9 and Spring Boot CRUD Tutorial - Delete an expense from expense list](https://www.youtube.com/watch?v=srDAtnpHG-c)
 - [15 Angular 9 and Spring Boot CRUD Tutorial - Delete an expense record](https://www.youtube.com/watch?v=EyuIpQqKgz0)
-- [14 Angular 9 and Spring Boot CRUD Tutorial - Create rest endpoint to delete expense](https://www.youtube.com/watch?v=ffOoTqw-GlM)
 <!-- YOUTUBE:END -->
 
 ---

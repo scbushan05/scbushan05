@@ -57,11 +57,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [04 - Install express - NodeJS, Express, Mongoose and MongoDB](https://www.youtube.com/watch?v=fIZB7a4UnI4)
+- [05 - Create Web Server - NodeJS, Express, Mongoose and MongoDB](https://www.youtube.com/watch?v=PZdVFpVXMhc)
 - [03 - Install nodemon - NodeJS, Express, Mongoose and MongoDB](https://www.youtube.com/watch?v=4zKpA4RWFDA)
 - [02 - Initialize npm - NodeJS, Express, Mongoose and MongoDB](https://www.youtube.com/watch?v=iwk4jHELpxo)
 - [01 - Setting up environment - NodeJS, Express, Mongoose and MongoDB](https://www.youtube.com/watch?v=mZKqKV3jq4g)
-- [18 Angular 9 and Spring Boot CRUD Tutorial - Sort expenses based on name and amount](https://www.youtube.com/watch?v=KSEvIlVOzyE)
-- [17 Angular 9 and Spring Boot CRUD Tutorial - Filter expenses based on expense name](https://www.youtube.com/watch?v=j8Q4X6oNa2U)
 <!-- YOUTUBE:END -->
 
 ---

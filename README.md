@@ -46,9 +46,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [NodeJS, Express, Mongoose and MongoDB RESTful Web Service – POST Request [Part 2]]](https://bushansirgur.in/nodejs-express-mongoose-and-mongodb-restful-web-service-post-request-part-2/?utm_source=rss&utm_medium=rss&utm_campaign=nodejs-express-mongoose-and-mongodb-restful-web-service-post-request-part-2)
+- [NodeJS, Express, Mongoose and MongoDB RESTful Web Service – POST Request [Part 2]](https://bushansirgur.in/nodejs-express-mongoose-and-mongodb-restful-web-service-post-request-part-2/?utm_source=rss&utm_medium=rss&utm_campaign=nodejs-express-mongoose-and-mongodb-restful-web-service-post-request-part-2)
 - [NodeJS, Express, Mongoose and MongoDB RESTful Web Service – GET Request](https://bushansirgur.in/nodejs-express-mongoose-and-mongodb-restful-web-service-get-request/?utm_source=rss&utm_medium=rss&utm_campaign=nodejs-express-mongoose-and-mongodb-restful-web-service-get-request)
-- [NodeJS, Express, Mongoose and MongoDB RESTful Web Service – POST Request](https://bushansirgur.in/nodejs-express-mongoose-and-mongodb-restful-web-service-post-request/?utm_source=rss&utm_medium=rss&utm_campaign=nodejs-express-mongoose-and-mongodb-restful-web-service-post-request)
+- [NodeJS, Express, Mongoose and MongoDB RESTful Web Service – POST Request [Part 1]](https://bushansirgur.in/nodejs-express-mongoose-and-mongodb-restful-web-service-post-request/?utm_source=rss&utm_medium=rss&utm_campaign=nodejs-express-mongoose-and-mongodb-restful-web-service-post-request)
 - [Angular 9 and Spring Boot CRUD Tutorial – Feature 6 sort expenses by name and amount](https://bushansirgur.in/angular-9-and-spring-boot-crud-tutorial-feature-6-sort-expenses-by-name-and-amount/?utm_source=rss&utm_medium=rss&utm_campaign=angular-9-and-spring-boot-crud-tutorial-feature-6-sort-expenses-by-name-and-amount)
 - [Angular 9 and Spring Boot CRUD Tutorial – Feature 5 filter expenses by keyword](https://bushansirgur.in/angular-9-and-spring-boot-crud-tutorial-feature-5-filter-expenses-by-keyword/?utm_source=rss&utm_medium=rss&utm_campaign=angular-9-and-spring-boot-crud-tutorial-feature-5-filter-expenses-by-keyword)
 <!-- BLOG-POST-LIST:END -->

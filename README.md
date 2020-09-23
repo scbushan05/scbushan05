@@ -46,7 +46,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Read the contents of Zip file in Java using ZipFile](https://bushansirgur.in/read-the-contents-of-zip-file-in-java-using-zipfile/?utm_source=rss&utm_medium=rss&utm_campaign=read-the-contents-of-zip-file-in-java-using-zipfile)
+- [Read the contents of Zip file without Unzip in Java](https://bushansirgur.in/read-the-contents-of-zip-file-in-java-using-zipfile/?utm_source=rss&utm_medium=rss&utm_campaign=read-the-contents-of-zip-file-in-java-using-zipfile)
 - [NodeJS, Express, Mongoose and MongoDB RESTful Web Service – DELETE Request](https://bushansirgur.in/nodejs-express-mongoose-and-mongodb-restful-web-service-delete-request/?utm_source=rss&utm_medium=rss&utm_campaign=nodejs-express-mongoose-and-mongodb-restful-web-service-delete-request)
 - [NodeJS, Express, Mongoose and MongoDB RESTful Web Service – PATCH Request](https://bushansirgur.in/nodejs-express-mongoose-and-mongodb-restful-web-service-patch-request/?utm_source=rss&utm_medium=rss&utm_campaign=nodejs-express-mongoose-and-mongodb-restful-web-service-patch-request)
 - [NodeJS, Express, Mongoose and MongoDB RESTful Web Service – POST Request [Part 2]](https://bushansirgur.in/nodejs-express-mongoose-and-mongodb-restful-web-service-post-request-part-2/?utm_source=rss&utm_medium=rss&utm_campaign=nodejs-express-mongoose-and-mongodb-restful-web-service-post-request-part-2)

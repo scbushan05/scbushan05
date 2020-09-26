@@ -57,11 +57,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [11 - Read/fetch/Retrieve all documents - NodeJS, Express, Mongoose and MongoDB](https://www.youtube.com/watch?v=YREBCMYU_2M)
+- [12 - Read/Get single document by id - NodeJS, Express, Mongoose and MongoDB](https://www.youtube.com/watch?v=Smhh5LqwhaY)
 - [09 - Save document to mongodb - NodeJS, Express, Mongoose and MongoDB](https://www.youtube.com/watch?v=Wc1ciwSNUfM)
 - [10 - Save document using create() and insertMany() - NodeJS, Express, Mongoose and MongoDB](https://www.youtube.com/watch?v=686pbLyBbGI)
 - [08 - Create schema and convert to model - NodeJS, Express, Mongoose and MongoDB](https://www.youtube.com/watch?v=-hmvZxT-hqg)
-- [07 - Connect to mongodb using mongoose - NodeJS, Express, Mongoose and MongoDB](https://www.youtube.com/watch?v=Cv6gFTZAfFY)
-- [06 - Route parameters - NodeJS, Express, Mongoose and MongoDB](https://www.youtube.com/watch?v=URSmFWsb3z0)
 <!-- YOUTUBE:END -->
 
 ---

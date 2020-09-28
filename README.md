@@ -57,11 +57,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [15 - Deleting a document - NodeJS, Express, Mongoose and MongoDB](https://www.youtube.com/watch?v=zJIneCeYoV0)
+- [16 - Async and Await - NodeJS, Express, Mongoose and MongoDB](https://www.youtube.com/watch?v=hXET3QYHj0I)
 - [13 - Updating the documents [Part 1] - NodeJS, Express, Mongoose and MongoDB](https://www.youtube.com/watch?v=uZu6lyM5yRY)
 - [14 - Updating the documents [Part 2] - NodeJS, Express, Mongoose and MongoDB](https://www.youtube.com/watch?v=2HPgRM4gHHY)
 - [11 - Read/fetch/Retrieve all documents - NodeJS, Express, Mongoose and MongoDB](https://www.youtube.com/watch?v=YREBCMYU_2M)
-- [12 - Read/Get single document by id - NodeJS, Express, Mongoose and MongoDB](https://www.youtube.com/watch?v=Smhh5LqwhaY)
-- [09 - Save document to mongodb - NodeJS, Express, Mongoose and MongoDB](https://www.youtube.com/watch?v=Wc1ciwSNUfM)
 <!-- YOUTUBE:END -->
 
 ---

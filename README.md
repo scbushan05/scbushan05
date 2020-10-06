@@ -46,11 +46,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Background color change – Javascript Beginner [01]](https://bushansirgur.in/background-color-change-javascript-beginner-01/?utm_source=rss&utm_medium=rss&utm_campaign=background-color-change-javascript-beginner-01)
 - [Building REST API with Node.js, Express and MongoDB using Async and Await](https://bushansirgur.in/building-rest-api-with-node-js-express-and-mongodb-using-async-and-await/?utm_source=rss&utm_medium=rss&utm_campaign=building-rest-api-with-node-js-express-and-mongodb-using-async-and-await)
 - [Building Restful CRUD API with Node.js, Express, Mongoose and MongoDB](https://bushansirgur.in/building-restful-crud-api-with-node-js-express-mongoose-and-mongodb/?utm_source=rss&utm_medium=rss&utm_campaign=building-restful-crud-api-with-node-js-express-mongoose-and-mongodb)
 - [Read the contents of 7z file without Unzip in Java](https://bushansirgur.in/read-the-contents-of-7z-file-without-unzip-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=read-the-contents-of-7z-file-without-unzip-in-java)
 - [Read the contents of Zip file without Unzip in Java](https://bushansirgur.in/read-the-contents-of-zip-file-in-java-using-zipfile/?utm_source=rss&utm_medium=rss&utm_campaign=read-the-contents-of-zip-file-in-java-using-zipfile)
-- [NodeJS, Express, Mongoose and MongoDB RESTful Web Service – DELETE Request](https://bushansirgur.in/nodejs-express-mongoose-and-mongodb-restful-web-service-delete-request/?utm_source=rss&utm_medium=rss&utm_campaign=nodejs-express-mongoose-and-mongodb-restful-web-service-delete-request)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -57,11 +57,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Spring boot and MongoDB - Create rest end point to create new document 04](https://www.youtube.com/watch?v=hPKnib2nwLc)
+- [Spring boot and MongoDB - Create rest end point to retrieve all the documents 03](https://www.youtube.com/watch?v=8urFlWyERQc)
 - [Spring boot and MongoDB - Create model class and repository 02](https://www.youtube.com/watch?v=GoXgh5bo3jY)
 - [Spring boot and MongoDB - Create Spring boot project 01](https://www.youtube.com/watch?v=WUMIplH9_NE)
 - [15 - Deleting a document - NodeJS, Express, Mongoose and MongoDB](https://www.youtube.com/watch?v=zJIneCeYoV0)
-- [16 - Async and Await - NodeJS, Express, Mongoose and MongoDB](https://www.youtube.com/watch?v=hXET3QYHj0I)
-- [13 - Updating the documents [Part 1] - NodeJS, Express, Mongoose and MongoDB](https://www.youtube.com/watch?v=uZu6lyM5yRY)
 <!-- YOUTUBE:END -->
 
 ---

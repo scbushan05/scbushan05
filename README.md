@@ -57,11 +57,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Spring boot and MongoDB - Create custom exception 09](https://www.youtube.com/watch?v=7wqrALKrqzY)
+- [Spring boot and MongoDB - Configure validation 08](https://www.youtube.com/watch?v=vXYKNZmITf4)
 - [Spring boot and MongoDB - Create rest end point to delete the document 07](https://www.youtube.com/watch?v=CnF0BlJsy3c)
 - [Spring boot and MongoDB - Create rest end point to update the document 06](https://www.youtube.com/watch?v=w_6jrQVsXhI)
 - [Spring boot and MongoDB - Create rest end point to get single document 05](https://www.youtube.com/watch?v=XWa8zgh0FMo)
-- [Spring boot and MongoDB - Create rest end point to create new document 04](https://www.youtube.com/watch?v=hPKnib2nwLc)
-- [Spring boot and MongoDB - Create rest end point to retrieve all the documents 03](https://www.youtube.com/watch?v=8urFlWyERQc)
 <!-- YOUTUBE:END -->
 
 ---

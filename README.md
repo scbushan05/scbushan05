@@ -57,11 +57,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Spring boot and MongoDB - Refactor deleting the document 15](https://www.youtube.com/watch?v=HrHpdkmfi8U)
+- [Spring boot and MongoDB - Refactor updating the document 14](https://www.youtube.com/watch?v=76QSkpfN4s4)
 - [Spring boot and MongoDB - Refactor retrieving single document 13](https://www.youtube.com/watch?v=sMlS3Vup1RU)
 - [Spring boot and MongoDB - Refactor retrieving the list of documents 12](https://www.youtube.com/watch?v=dtt8nHy6B5I)
 - [Spring boot and MongoDB - Refactor controller for saving the document 11](https://www.youtube.com/watch?v=QQA6drZ3z9o)
-- [Spring boot and MongoDB - Create service interface and service implementation 10](https://www.youtube.com/watch?v=QLoocLZvsZg)
-- [Spring boot and MongoDB - Create custom exception 09](https://www.youtube.com/watch?v=7wqrALKrqzY)
 <!-- YOUTUBE:END -->
 
 ---

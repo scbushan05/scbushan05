@@ -57,11 +57,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Spring boot and MongoDB - Connecting to MongoDB Atlas using MongoDB compass 17](https://www.youtube.com/watch?v=U8FzjgYE4XI)
+- [Spring boot and MongoDB - Setting up the production database 16](https://www.youtube.com/watch?v=u6pKf41l3yU)
 - [Spring boot and MongoDB - Refactor deleting the document 15](https://www.youtube.com/watch?v=HrHpdkmfi8U)
 - [Spring boot and MongoDB - Refactor updating the document 14](https://www.youtube.com/watch?v=76QSkpfN4s4)
 - [Spring boot and MongoDB - Refactor retrieving single document 13](https://www.youtube.com/watch?v=sMlS3Vup1RU)
-- [Spring boot and MongoDB - Refactor retrieving the list of documents 12](https://www.youtube.com/watch?v=dtt8nHy6B5I)
-- [Spring boot and MongoDB - Refactor controller for saving the document 11](https://www.youtube.com/watch?v=QQA6drZ3z9o)
 <!-- YOUTUBE:END -->
 
 ---

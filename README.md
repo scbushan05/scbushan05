@@ -57,11 +57,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Spring boot and MongoDB - Deploying Spring boot app to Heroku 18](https://www.youtube.com/watch?v=LgvocGWG3Ag)
 - [Spring boot and MongoDB - Connecting to MongoDB Atlas using MongoDB compass 17](https://www.youtube.com/watch?v=U8FzjgYE4XI)
 - [Spring boot and MongoDB - Setting up the production database 16](https://www.youtube.com/watch?v=u6pKf41l3yU)
 - [Spring boot and MongoDB - Refactor deleting the document 15](https://www.youtube.com/watch?v=HrHpdkmfi8U)
 - [Spring boot and MongoDB - Refactor updating the document 14](https://www.youtube.com/watch?v=76QSkpfN4s4)
-- [Spring boot and MongoDB - Refactor retrieving single document 13](https://www.youtube.com/watch?v=sMlS3Vup1RU)
 <!-- YOUTUBE:END -->
 
 ---

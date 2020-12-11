@@ -1,5 +1,16 @@
 ### Hi there, I'm Bushan Sirgur - aka [B2 Tech][youtube] 👋
 
+![](https://komarev.com/ghpvc/?username=scbushan05&color=blue&style=flat)
+<a href="https://github.com/scbushan05"><img src="https://img.shields.io/github/stars/scbushan05?style=flat"/></a>
+<a href="https://github.com/scbushan05"><img src="https://img.shields.io/github/forks/scbushan05/scbushan05.github.io?style=flat"/></a>
+<a href="https://github.com/scbushan05"><img src="https://img.shields.io/github/issues-pr/scbushan05/scbushan05.github.io?style=flat?color=yellow"/></a>
+<a href="https://github.com/scbushan05"><img src="https://img.shields.io/github/contributors/scbushan05/scbushan05?color=orange"/></a>
+<a href="https://github.com/scbushan05"><img src="https://img.shields.io/github/followers/scbushan05?style=flat"/></a>
+<a href="https://twitter.com/bushan_sirgur"><img src="https://img.shields.io/twitter/follow/scbushan05?style=social"/></a>
+<a href="https://github.com/scbushan05"><img src="https://img.shields.io/github/watchers/scbushan05/imjp19?style=flat"/></a>
+<br><img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif"/>
+
+
 ## I'm a Software Engineer, Youtuber, Blogger, and Teacher!
 - 🔭 I’m currently working on a [New Website][website]!
 - 🌱 I’m currently learning new technologies 🤣

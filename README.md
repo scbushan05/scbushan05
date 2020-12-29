@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Given two strings, append them together (known as “concatenation”) and return the result.](https://bushansirgur.in/given-two-strings-append-them-together-known-as-concatenation-and-return-the-result/?utm_source=rss&utm_medium=rss&utm_campaign=given-two-strings-append-them-together-known-as-concatenation-and-return-the-result)
+- [Return true if the given non-negative number is a multiple of 3 or a multiple of 5](https://bushansirgur.in/return-true-if-the-given-non-negative-number-is-a-multiple-of-3-or-a-multiple-of-5/?utm_source=rss&utm_medium=rss&utm_campaign=return-true-if-the-given-non-negative-number-is-a-multiple-of-3-or-a-multiple-of-5)
+- [Test whether the number is divisible by 7 or not](https://bushansirgur.in/test-whether-the-number-is-divisible-by-7-or-not/?utm_source=rss&utm_medium=rss&utm_campaign=test-whether-the-number-is-divisible-by-7-or-not)
 - [Check the given number is odd or even](https://bushansirgur.in/check-the-given-number-is-odd-or-even/?utm_source=rss&utm_medium=rss&utm_campaign=check-the-given-number-is-odd-or-even)
 - [Pass two ints as parameter and return the sum of numbers.](https://bushansirgur.in/pass-two-ints-as-parameter-and-return-the-sum-of-numbers/?utm_source=rss&utm_medium=rss&utm_campaign=pass-two-ints-as-parameter-and-return-the-sum-of-numbers)
-- [Spring boot and MongoDB REST API CRUD Tutorial [Updated 2021]](https://bushansirgur.in/spring-boot-and-mongodb-rest-api-crud-tutorial-updated-2021/?utm_source=rss&utm_medium=rss&utm_campaign=spring-boot-and-mongodb-rest-api-crud-tutorial-updated-2021)
-- [Background color change – Javascript Beginner [01]](https://bushansirgur.in/background-color-change-javascript-beginner-01/?utm_source=rss&utm_medium=rss&utm_campaign=background-color-change-javascript-beginner-01)
-- [Building REST API with Node.js, Express and MongoDB using Async and Await](https://bushansirgur.in/building-rest-api-with-node-js-express-and-mongodb-using-async-and-await/?utm_source=rss&utm_medium=rss&utm_campaign=building-rest-api-with-node-js-express-and-mongodb-using-async-and-await)
 <!-- BLOG-POST-LIST:END -->
 
 ---

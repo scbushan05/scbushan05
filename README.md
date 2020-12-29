@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Accept a string as parameter. Find out how many consonants present in it.](https://bushansirgur.in/accept-a-string-as-parameter-find-out-how-many-consonants-present-in-it/?utm_source=rss&utm_medium=rss&utm_campaign=accept-a-string-as-parameter-find-out-how-many-consonants-present-in-it)
+- [Pass a string as parameter. Find out how many vowels present in it](https://bushansirgur.in/pass-a-string-as-parameter-find-out-how-many-vowels-present-in-it/?utm_source=rss&utm_medium=rss&utm_campaign=pass-a-string-as-parameter-find-out-how-many-vowels-present-in-it)
 - [Given two strings, append them together (known as “concatenation”) and return the result.](https://bushansirgur.in/given-two-strings-append-them-together-known-as-concatenation-and-return-the-result/?utm_source=rss&utm_medium=rss&utm_campaign=given-two-strings-append-them-together-known-as-concatenation-and-return-the-result)
 - [Return true if the given non-negative number is a multiple of 3 or a multiple of 5](https://bushansirgur.in/return-true-if-the-given-non-negative-number-is-a-multiple-of-3-or-a-multiple-of-5/?utm_source=rss&utm_medium=rss&utm_campaign=return-true-if-the-given-non-negative-number-is-a-multiple-of-3-or-a-multiple-of-5)
 - [Test whether the number is divisible by 7 or not](https://bushansirgur.in/test-whether-the-number-is-divisible-by-7-or-not/?utm_source=rss&utm_medium=rss&utm_campaign=test-whether-the-number-is-divisible-by-7-or-not)
-- [Check the given number is odd or even](https://bushansirgur.in/check-the-given-number-is-odd-or-even/?utm_source=rss&utm_medium=rss&utm_campaign=check-the-given-number-is-odd-or-even)
-- [Pass two ints as parameter and return the sum of numbers.](https://bushansirgur.in/pass-two-ints-as-parameter-and-return-the-sum-of-numbers/?utm_source=rss&utm_medium=rss&utm_campaign=pass-two-ints-as-parameter-and-return-the-sum-of-numbers)
 <!-- BLOG-POST-LIST:END -->
 
 ---

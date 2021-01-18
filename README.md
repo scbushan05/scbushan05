@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MEAN Stack Tutorial [2021] - Test GET Request - 10](https://www.youtube.com/watch?v=ylEvWquXmLo)
+- [MEAN Stack Tutorial [2021] - Create Angular Project - 11](https://www.youtube.com/watch?v=V2khUESsSaU)
 - [MEAN Stack Tutorial [2021] - Create Schema and Model - 08](https://www.youtube.com/watch?v=mRjD0Hysf10)
 - [MEAN Stack Tutorial [2021] - Create Express Router - 09](https://www.youtube.com/watch?v=gGxTy_7nals)
 - [MEAN Stack Tutorial [2021] - Create Express Server - 06](https://www.youtube.com/watch?v=ruLBPKLguh8)
-- [MEAN Stack Tutorial [2021] - Connect to Mongodb database - 07](https://www.youtube.com/watch?v=5v0MKUcQzEE)
-- [MEAN Stack Tutorial [2021] - Create Nodejs Project - 05](https://www.youtube.com/watch?v=3HczDiD0abg)
 <!-- YOUTUBE:END -->
 
 ---

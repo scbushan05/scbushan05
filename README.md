@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MEAN Stack Tutorial [2021] - Create Angular Service and HTTP GET request - 13](https://www.youtube.com/watch?v=R9gfxm4jdS0)
+- [MEAN Stack Tutorial [2021] - Create HTML template to display data - 12](https://www.youtube.com/watch?v=7qz8Z-AjGLY)
 - [MEAN Stack Tutorial [2021] - Test GET Request - 10](https://www.youtube.com/watch?v=ylEvWquXmLo)
 - [MEAN Stack Tutorial [2021] - Create Angular Project - 11](https://www.youtube.com/watch?v=V2khUESsSaU)
 - [MEAN Stack Tutorial [2021] - Create Schema and Model - 08](https://www.youtube.com/watch?v=mRjD0Hysf10)
-- [MEAN Stack Tutorial [2021] - Create Express Router - 09](https://www.youtube.com/watch?v=gGxTy_7nals)
-- [MEAN Stack Tutorial [2021] - Create Express Server - 06](https://www.youtube.com/watch?v=ruLBPKLguh8)
 <!-- YOUTUBE:END -->
 
 ---

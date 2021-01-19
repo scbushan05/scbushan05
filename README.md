@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Java 8 Stream API sorted() Example](https://bushansirgur.in/java-8-stream-api-sorted-example/)
 - [Java 8 Stream API filter() example](https://bushansirgur.in/java-8-stream-api-filter-example/)
 - [Angular 10 Structural directive example](https://bushansirgur.in/angular-10-structural-directive-example/)
 - [Angular 10 HTTP GET Request Example](https://bushansirgur.in/angular-10-http-get-request-example/)
 - [Given a string, return a new string where the first and last chars have been exchanged](https://bushansirgur.in/given-a-string-return-a-new-string-where-the-first-and-last-chars-have-been-exchanged/)
-- [Pass an int array and an int and do a search of the second parameter in the first, and return true/false.](https://bushansirgur.in/pass-an-int-array-and-an-int-and-do-a-search-of-the-second-parameter-in-the-first-and-return-true-false/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Spring, Spring MVC, Spring REST and Spring Boot Annotations](https://bushansirgur.in/java-spring-spring-mvc-spring-rest-and-spring-boot-annotations/)
 - [Convert javascript object to an Array](https://bushansirgur.in/convert-javascript-object-to-an-array/)
 - [Java 8 Stream API sorted() Example](https://bushansirgur.in/java-8-stream-api-sorted-example/)
 - [Java 8 Stream API filter() example](https://bushansirgur.in/java-8-stream-api-filter-example/)
 - [Angular 10 Structural directive example](https://bushansirgur.in/angular-10-structural-directive-example/)
-- [Angular 10 HTTP GET Request Example](https://bushansirgur.in/angular-10-http-get-request-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

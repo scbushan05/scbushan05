@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MEAN Stack Tutorial [2021] - CORS Policy Error - 14](https://www.youtube.com/watch?v=oJa0VhP__C8)
+- [MEAN Stack Tutorial [2021] - Enable CORS Policy Origin - 15](https://www.youtube.com/watch?v=UpwVjgPnUtU)
 - [Convert Javascript object into an Array](https://www.youtube.com/watch?v=eOE8Tr2qqNQ)
 - [MEAN Stack Tutorial [2021] - Create Angular Service and HTTP GET request - 13](https://www.youtube.com/watch?v=R9gfxm4jdS0)
 - [MEAN Stack Tutorial [2021] - Create HTML template to display data - 12](https://www.youtube.com/watch?v=7qz8Z-AjGLY)
-- [MEAN Stack Tutorial [2021] - Test GET Request - 10](https://www.youtube.com/watch?v=ylEvWquXmLo)
-- [MEAN Stack Tutorial [2021] - Create Angular Project - 11](https://www.youtube.com/watch?v=V2khUESsSaU)
 <!-- YOUTUBE:END -->
 
 ---

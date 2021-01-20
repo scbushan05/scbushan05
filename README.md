@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Convert javascript object to an Array](https://bushansirgur.in/convert-javascript-object-to-an-array/)
 - [Java 8 Stream API sorted() Example](https://bushansirgur.in/java-8-stream-api-sorted-example/)
 - [Java 8 Stream API filter() example](https://bushansirgur.in/java-8-stream-api-filter-example/)
 - [Angular 10 Structural directive example](https://bushansirgur.in/angular-10-structural-directive-example/)
 - [Angular 10 HTTP GET Request Example](https://bushansirgur.in/angular-10-http-get-request-example/)
-- [Given a string, return a new string where the first and last chars have been exchanged](https://bushansirgur.in/given-a-string-return-a-new-string-where-the-first-and-last-chars-have-been-exchanged/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

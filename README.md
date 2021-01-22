@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create spring boot project in STS](https://bushansirgur.in/create-spring-boot-project-in-sts/)
 - [HTTP Status codes with examples](https://bushansirgur.in/http-status-codes-with-examples/)
 - [Annotations used in Spring MVC [2021]](https://bushansirgur.in/spring-mvc-annotations-2021/)
 - [Convert javascript object to an Array](https://bushansirgur.in/convert-javascript-object-to-an-array/)
 - [Java 8 Stream API sorted() Example](https://bushansirgur.in/java-8-stream-api-sorted-example/)
-- [Java 8 Stream API filter() example](https://bushansirgur.in/java-8-stream-api-filter-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

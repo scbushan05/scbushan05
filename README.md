@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Spring Boot Masterclass 15 - Creating the edit link](https://www.youtube.com/watch?v=8HyJvB0EEdc)
+- [Spring Boot Masterclass 14 - What's included in feature 3?](https://www.youtube.com/watch?v=ENzAp_WSzv4)
 - [How to Sort List of Strings in Java 8 using Stream - Shorts](https://www.youtube.com/watch?v=zDci2mAkr2s)
 - [MEAN Stack Tutorial [2021] - Display List of Notes in Template - 16](https://www.youtube.com/watch?v=2q1DPCsCKPI)
 - [MEAN Stack Tutorial [2021] - CORS Policy Error - 14](https://www.youtube.com/watch?v=oJa0VhP__C8)
-- [MEAN Stack Tutorial [2021] - Enable CORS Policy Origin - 15](https://www.youtube.com/watch?v=UpwVjgPnUtU)
-- [Convert Javascript object into an Array - Shorts](https://www.youtube.com/watch?v=eOE8Tr2qqNQ)
 <!-- YOUTUBE:END -->
 
 ---

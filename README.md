@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Spring Boot Masterclass 20 - Delete the expense details](https://www.youtube.com/watch?v=g9axSrnOcDc)
 - [Spring Boot Masterclass 19 - Creating the delete link](https://www.youtube.com/watch?v=dgoqH2W2xyo)
 - [Spring Boot Masterclass 18 - What's included in feature 4?](https://www.youtube.com/watch?v=AIxRDceoMVM)
 - [Spring Boot Masterclass 16 - Create service method to get single expense object](https://www.youtube.com/watch?v=ySzY8uoOQqo)
 - [Spring Boot Masterclass 17 - Update expense details](https://www.youtube.com/watch?v=-KeWP71GC90)
-- [Spring Boot Masterclass 15 - Creating the edit link](https://www.youtube.com/watch?v=8HyJvB0EEdc)
 <!-- YOUTUBE:END -->
 
 ---

@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create Spring Boot Project in Intellij Community Edition](https://bushansirgur.in/create-spring-boot-project-in-intellij-community-edition/)
 - [Spring Data Rest Example with MySQL database [2021]](https://bushansirgur.in/spring-data-rest-example-with-mysql-database-2021/)
 - [Arrow function in javascript example](https://bushansirgur.in/arrow-function-in-javascript-example/)
 - [Most commonly used java string methods](https://bushansirgur.in/most-commonly-used-java-string-methods/)
 - [3 Best ways to remove duplicates from array in Javascript](https://bushansirgur.in/3-best-ways-to-remove-duplicates-from-array-in-javascript/)
-- [Create spring boot project using Spring initializr](https://bushansirgur.in/create-spring-boot-project-using-spring-initializr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

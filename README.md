@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Build REST API - Spring Data Rest and MySQL Tutorial - [Part 1]](https://www.youtube.com/watch?v=LOcnLLdbSUg)
 - [Spring Boot Masterclass 20 - Delete the expense details](https://www.youtube.com/watch?v=g9axSrnOcDc)
 - [Spring Boot Masterclass 19 - Creating the delete link](https://www.youtube.com/watch?v=dgoqH2W2xyo)
 - [Spring Boot Masterclass 18 - What's included in feature 4?](https://www.youtube.com/watch?v=AIxRDceoMVM)
 - [Spring Boot Masterclass 16 - Create service method to get single expense object](https://www.youtube.com/watch?v=ySzY8uoOQqo)
-- [Spring Boot Masterclass 17 - Update expense details](https://www.youtube.com/watch?v=-KeWP71GC90)
 <!-- YOUTUBE:END -->
 
 ---

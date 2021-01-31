@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [3 Different ways to Copy Objects in Javascript](https://bushansirgur.in/3-different-ways-to-copy-objects-in-javascript/)
 - [Java 8 Stream reduce() Example](https://bushansirgur.in/java-8-stream-reduce-example/)
 - [Java 8 Stream map() Example](https://bushansirgur.in/java-8-stream-map-example/)
 - [Create Spring Boot Project in Intellij Community Edition](https://bushansirgur.in/create-spring-boot-project-in-intellij-community-edition/)
 - [Spring Data Rest with MySQL database [2021]](https://bushansirgur.in/spring-data-rest-example-with-mysql-database-2021/)
-- [Arrow function in javascript example](https://bushansirgur.in/arrow-function-in-javascript-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

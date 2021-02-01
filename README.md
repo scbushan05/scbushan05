@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MEAN Stack Tutorial [2021] - Create rest end point for create note - 18](https://www.youtube.com/watch?v=iq-rtTdUbOE)
+- [MEAN Stack Tutorial [2021] - What's include in feature 2? - 17](https://www.youtube.com/watch?v=XPJapYlx0TQ)
 - [Build REST API - Spring Data Rest and MySQL Tutorial - [Part 2]](https://www.youtube.com/watch?v=2W9unzJknu8)
 - [Build REST API - Spring Data Rest and MySQL Tutorial - [Part 1]](https://www.youtube.com/watch?v=LOcnLLdbSUg)
 - [Spring Boot Masterclass 20 - Delete the expense details](https://www.youtube.com/watch?v=g9axSrnOcDc)
-- [Spring Boot Masterclass 19 - Creating the delete link](https://www.youtube.com/watch?v=dgoqH2W2xyo)
-- [Spring Boot Masterclass 18 - What's included in feature 4?](https://www.youtube.com/watch?v=AIxRDceoMVM)
 <!-- YOUTUBE:END -->
 
 ---

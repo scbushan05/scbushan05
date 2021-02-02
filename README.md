@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [3 Ways to Create Javascript Functions](https://bushansirgur.in/3-ways-to-create-javascript-functions/)
-- [3 Different ways to Copy Objects in Javascript](https://bushansirgur.in/3-different-ways-to-copy-objects-in-javascript/)
-- [Java 8 Stream reduce() Example](https://bushansirgur.in/java-8-stream-reduce-example/)
-- [Java 8 Stream map() Example](https://bushansirgur.in/java-8-stream-map-example/)
-- [Create Spring Boot Project in Intellij Community Edition](https://bushansirgur.in/create-spring-boot-project-in-intellij-community-edition/)
+- [Given an “out” string length 4, such as “”, and a word, return a new string where the word is in the middle of the out string, e.g. “”](https://bushansirgur.in/given-an-out-string-length-4-such-as-and-a-word-return-a-new-string-where-the-word-is-in-the-middle-of-the-out-string-e-g/)
+- [Return true if the given string contains 1 or 3 ‘e’ chars. Otherwise return false.](https://bushansirgur.in/return-true-if-the-given-string-contains-1-or-3-e-chars-otherwise-return-false/)
+- [Return true if the array contains, somewhere, three increasing adjacent numbers like …. 4, 5, 6, … or 23, 24, 25.](https://bushansirgur.in/return-true-if-the-array-contains-somewhere-three-increasing-adjacent-numbers-like-4-5-6-or-23-24-25/)
+- [Pass an int as parameter. Find the sum of the digits in the number and return it.](https://bushansirgur.in/pass-an-int-as-parameter-find-the-sum-of-the-digits-in-the-number-and-return-it/)
+- [Given a string of even length, return the first half. So the string “WooHoo” yields “Woo”.](https://bushansirgur.in/given-a-string-of-even-length-return-the-first-half-so-the-string-woohoo-yields-woo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

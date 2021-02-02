@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Given an array of ints, return true if the value 3 appears in the array exactly 3 times, and no 3’s are next to each other.](https://bushansirgur.in/given-an-array-of-ints-return-true-if-the-value-3-appears-in-the-array-exactly-3-times-and-no-3s-are-next-to-each-other/)
+- [Given an array of ints, return true if the sum of all the 2’s in the array is exactly 8.](https://bushansirgur.in/given-an-array-of-ints-return-true-if-the-sum-of-all-the-2s-in-the-array-is-exactly-8/)
+- [Given a string and an int n, return a string made of the first and last ‘ n’ chars from the string. The string length will be at least n.](https://bushansirgur.in/given-a-string-and-an-int-n-return-a-string-made-of-the-first-and-last-n-chars-from-the-string-the-string-length-will-be-at-least-n/)
 - [Given an “out” string length 4, such as “”, and a word, return a new string where the word is in the middle of the out string, e.g. “”](https://bushansirgur.in/given-an-out-string-length-4-such-as-and-a-word-return-a-new-string-where-the-word-is-in-the-middle-of-the-out-string-e-g/)
 - [Return true if the given string contains 1 or 3 ‘e’ chars. Otherwise return false.](https://bushansirgur.in/return-true-if-the-given-string-contains-1-or-3-e-chars-otherwise-return-false/)
-- [Return true if the array contains, somewhere, three increasing adjacent numbers like …. 4, 5, 6, … or 23, 24, 25.](https://bushansirgur.in/return-true-if-the-array-contains-somewhere-three-increasing-adjacent-numbers-like-4-5-6-or-23-24-25/)
-- [Pass an int as parameter. Find the sum of the digits in the number and return it.](https://bushansirgur.in/pass-an-int-as-parameter-find-the-sum-of-the-digits-in-the-number-and-return-it/)
-- [Given a string of even length, return the first half. So the string “WooHoo” yields “Woo”.](https://bushansirgur.in/given-a-string-of-even-length-return-the-first-half-so-the-string-woohoo-yields-woo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

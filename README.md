@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Complete Javascript String methods with Examples](https://bushansirgur.in/complete-javascript-string-methods-with-examples/)
 - [5 Different Ways to Create Object in Java](https://bushansirgur.in/5-different-ways-to-create-object-in-java/)
 - [Spring Boot, MySQL, JPA, Hibernate Restful CRUD API Tutorial [2021]](https://bushansirgur.in/spring-boot-mysql-jpa-hibernate-restful-crud-api-tutorial-2021/)
 - [Given an array of ints, return true if the value 3 appears in the array exactly 3 times, and no 3’s are next to each other.](https://bushansirgur.in/given-an-array-of-ints-return-true-if-the-value-3-appears-in-the-array-exactly-3-times-and-no-3s-are-next-to-each-other/)
 - [Given an array of ints, return true if the sum of all the 2’s in the array is exactly 8.](https://bushansirgur.in/given-an-array-of-ints-return-true-if-the-sum-of-all-the-2s-in-the-array-is-exactly-8/)
-- [Given a string and an int n, return a string made of the first and last ‘ n’ chars from the string. The string length will be at least n.](https://bushansirgur.in/given-a-string-and-an-int-n-return-a-string-made-of-the-first-and-last-n-chars-from-the-string-the-string-length-will-be-at-least-n/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

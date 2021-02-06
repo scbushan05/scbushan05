@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Example to read the user input using Scanner Class](https://bushansirgur.in/example-to-read-the-user-input-using-scanner-class/)
 - [Spring Boot, Hibernate, JPA and H2 Database CRUD REST API Example](https://bushansirgur.in/spring-boot-hibernate-jpa-and-h2-database-crud-rest-api-example/)
 - [Complete Javascript String methods with Examples](https://bushansirgur.in/complete-javascript-string-methods-with-examples/)
 - [5 Different Ways to Create Object in Java](https://bushansirgur.in/5-different-ways-to-create-object-in-java/)
 - [Spring Boot, MySQL, JPA, Hibernate Restful CRUD API Tutorial [2021]](https://bushansirgur.in/spring-boot-mysql-jpa-hibernate-restful-crud-api-tutorial-2021/)
-- [Given an array of ints, return true if the value 3 appears in the array exactly 3 times, and no 3’s are next to each other.](https://bushansirgur.in/given-an-array-of-ints-return-true-if-the-value-3-appears-in-the-array-exactly-3-times-and-no-3s-are-next-to-each-other/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

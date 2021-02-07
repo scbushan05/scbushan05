@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Swing display Basic Window example](https://bushansirgur.in/java-swing-display-basic-window-example/)
 - [Java 8 Stream API collect() method Example](https://bushansirgur.in/java-8-stream-api-collect-method-example/)
 - [Example to read the user input using Scanner Class](https://bushansirgur.in/example-to-read-the-user-input-using-scanner-class/)
 - [Spring Boot, Hibernate, JPA and H2 Database CRUD REST API Example](https://bushansirgur.in/spring-boot-hibernate-jpa-and-h2-database-crud-rest-api-example/)
 - [Complete Javascript String methods with Examples](https://bushansirgur.in/complete-javascript-string-methods-with-examples/)
-- [5 Different Ways to Create Object in Java](https://bushansirgur.in/5-different-ways-to-create-object-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

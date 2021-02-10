@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [HTML Basic Tags Explained with Examples](https://bushansirgur.in/html-basic-tags-explained-with-examples/)
 - [Spring boot @RequestParam annotation Example](https://bushansirgur.in/spring-boot-requestparam-annotation-example/)
 - [Spring boot @PathVariable annotation Example](https://bushansirgur.in/spring-boot-pathvariable-annotation-example/)
 - [Java Swing display JFrame window at center of the screen](https://bushansirgur.in/java-swing-display-jframe-window-at-center-of-the-screen/)
 - [Java Swing display Basic Window example](https://bushansirgur.in/java-swing-display-basic-window-example/)
-- [Java 8 Stream API collect() method Example](https://bushansirgur.in/java-8-stream-api-collect-method-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

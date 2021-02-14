@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MEAN Stack Tutorial [2021] - Create service method to make HTTP POST request - 22](https://www.youtube.com/watch?v=hDu8TsfAaLw)
+- [MEAN Stack Tutorial [2021] - Create Note model and set up the click event - 21](https://www.youtube.com/watch?v=gPWGM86AJuQ)
+- [MEAN Stack Tutorial [2021] - Create HTML form - 20](https://www.youtube.com/watch?v=ZuQuxk_CeoI)
+- [MEAN Stack Tutorial [2021] - Setup the angular routing - 19](https://www.youtube.com/watch?v=Q_-MlsFpE2c)
 - [MEAN Stack Tutorial [2021] - Create rest end point for create note - 18](https://www.youtube.com/watch?v=iq-rtTdUbOE)
-- [MEAN Stack Tutorial [2021] - What's include in feature 2? - 17](https://www.youtube.com/watch?v=XPJapYlx0TQ)
-- [Build REST API - Spring Data Rest and MySQL Tutorial - [Part 2]](https://www.youtube.com/watch?v=2W9unzJknu8)
-- [Build REST API - Spring Data Rest and MySQL Tutorial - [Part 1]](https://www.youtube.com/watch?v=LOcnLLdbSUg)
-- [Spring Boot Masterclass 20 - Delete the expense details](https://www.youtube.com/watch?v=g9axSrnOcDc)
 <!-- YOUTUBE:END -->
 
 ---

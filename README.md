@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Spring boot tutorial - @PathVariable annotation with example](https://www.youtube.com/watch?v=I1AAgB99gZw)
 - [Spring boot, Hibernate, JPA and H2 database REST API Tutorial](https://www.youtube.com/watch?v=2uThD90asWo)
 - [MEAN Stack Tutorial [2021] - Create service method to make HTTP POST request - 22](https://www.youtube.com/watch?v=hDu8TsfAaLw)
 - [MEAN Stack Tutorial [2021] - Create Note model and set up the click event - 21](https://www.youtube.com/watch?v=gPWGM86AJuQ)
 - [MEAN Stack Tutorial [2021] - Create HTML form - 20](https://www.youtube.com/watch?v=ZuQuxk_CeoI)
-- [MEAN Stack Tutorial [2021] - Setup the angular routing - 19](https://www.youtube.com/watch?v=Q_-MlsFpE2c)
 <!-- YOUTUBE:END -->
 
 ---

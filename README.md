@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Spring boot tutorial - @RequestBody annotation with example](https://www.youtube.com/watch?v=nsQb5Au6EHQ)
 - [Spring boot tutorial - @RequestParam annotation with example](https://www.youtube.com/watch?v=8Y4yhNyVl6s)
 - [Spring boot tutorial - @PathVariable annotation with example](https://www.youtube.com/watch?v=I1AAgB99gZw)
 - [Spring boot, Hibernate, JPA and H2 database REST API Tutorial](https://www.youtube.com/watch?v=2uThD90asWo)
 - [MEAN Stack Tutorial [2021] - Create service method to make HTTP POST request - 22](https://www.youtube.com/watch?v=hDu8TsfAaLw)
-- [MEAN Stack Tutorial [2021] - Create Note model and set up the click event - 21](https://www.youtube.com/watch?v=gPWGM86AJuQ)
 <!-- YOUTUBE:END -->
 
 ---

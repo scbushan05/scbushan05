@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Java swing tutorial [02] - Display window at center of screen](https://www.youtube.com/watch?v=g5niPVnfXV4)
+- [Java swing tutorial [01] - Create basic window](https://www.youtube.com/watch?v=FvOdv3fdIes)
 - [Spring boot tutorial - @ResponseBody annotation with example](https://www.youtube.com/watch?v=zPEft_Gn1_w)
 - [Spring boot tutorial - @RequestBody annotation with example](https://www.youtube.com/watch?v=nsQb5Au6EHQ)
 - [Spring boot tutorial - @RequestParam annotation with example](https://www.youtube.com/watch?v=8Y4yhNyVl6s)
-- [Spring boot tutorial - @PathVariable annotation with example](https://www.youtube.com/watch?v=I1AAgB99gZw)
-- [Spring boot, Hibernate, JPA and H2 database REST API Tutorial](https://www.youtube.com/watch?v=2uThD90asWo)
 <!-- YOUTUBE:END -->
 
 ---

@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 20 commonly used Javascript array methods with examples](https://bushansirgur.in/top-20-commonly-used-javascript-array-methods-with-examples/)
 - [Spring boot @RequestMapping annotation with example](https://bushansirgur.in/spring-boot-requestmapping-annotation-with-example/)
 - [Spring Boot, PostgreSQL, JPA, Hibernate RESTful CRUD API Example](https://bushansirgur.in/spring-boot-postgresql-jpa-hibernate-restful-crud-api-example/)
 - [Spring boot @ResponseBody annotation with example](https://bushansirgur.in/spring-boot-responsebody-annotation-with-example/)
 - [Spring boot @RequestBody annotation example](https://bushansirgur.in/spring-boot-requestbody-annotation-example/)
-- [HTML Basic Tags Explained with Examples](https://bushansirgur.in/html-basic-tags-explained-with-examples/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

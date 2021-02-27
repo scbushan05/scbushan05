@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Spring boot @Bean annotation with example](https://www.youtube.com/watch?v=C0j0oPRI4hg)
 - [Spring boot @Autowired annotation with example](https://www.youtube.com/watch?v=HOuDjGIV7po)
 - [Spring boot tutorial - @RequestMapping annotation with example](https://www.youtube.com/watch?v=NplgV51g470)
 - [Java swing tutorial [02] - Display window at center of screen](https://www.youtube.com/watch?v=g5niPVnfXV4)
 - [Java swing tutorial [01] - Create basic window](https://www.youtube.com/watch?v=FvOdv3fdIes)
-- [Spring boot tutorial - @ResponseBody annotation with example](https://www.youtube.com/watch?v=zPEft_Gn1_w)
 <!-- YOUTUBE:END -->
 
 ---

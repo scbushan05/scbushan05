@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Convert JSON String into Javascript Object](https://bushansirgur.in/convert-json-string-into-javascript-object/)
+- [Convert Javascript Object into a JSON String](https://bushansirgur.in/convert-javascript-object-into-a-json-string/)
 - [Spring Boot REST API Testing using JUnit](https://bushansirgur.in/spring-boot-rest-api-testing-using-junit/)
 - [Spring boot @Bean annotation with example](https://bushansirgur.in/spring-boot-bean-annotation-with-example/)
 - [Spring boot @Autowire annotation with example](https://bushansirgur.in/spring-boot-autowire-annotation-with-example/)
-- [Top 20 commonly used Javascript array methods with examples](https://bushansirgur.in/top-20-commonly-used-javascript-array-methods-with-examples/)
-- [Spring boot @RequestMapping annotation with example](https://bushansirgur.in/spring-boot-requestmapping-annotation-with-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

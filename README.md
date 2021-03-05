@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Spring MVC @ControllerAdvice Annotation with Example](https://www.youtube.com/watch?v=-_WUY9gb3ro)
 - [Spring boot @ExceptionHandler annotation with example](https://www.youtube.com/watch?v=RxrHdYgrBoA)
 - [Test Spring Boot REST API using JUnit](https://www.youtube.com/watch?v=KkYVnj0k6Sw)
 - [Spring boot @Bean annotation with example](https://www.youtube.com/watch?v=C0j0oPRI4hg)
 - [Spring boot @Autowired annotation with example](https://www.youtube.com/watch?v=HOuDjGIV7po)
-- [Spring boot tutorial - @RequestMapping annotation with example](https://www.youtube.com/watch?v=NplgV51g470)
 <!-- YOUTUBE:END -->
 
 ---

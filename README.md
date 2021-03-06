@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring MVC @Valid annotation with Example](https://bushansirgur.in/spring-mvc-valid-annotation-with-example/)
 - [Spring MVC @ControllerAdvice Annotation with Example](https://bushansirgur.in/spring-mvc-controlleradvice-annotation-with-example/)
 - [Spring MVC @ExceptionHandler Annotation with Example](https://bushansirgur.in/spring-mvc-exceptionhandler-annotation-with-example/)
 - [Different ways to implement Threads in Java](https://bushansirgur.in/different-ways-to-implement-threads-in-java/)
 - [Access Modifiers in Java with Examples](https://bushansirgur.in/access-modifiers-in-java/)
-- [Convert JSON String into Javascript Object](https://bushansirgur.in/convert-json-string-into-javascript-object/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

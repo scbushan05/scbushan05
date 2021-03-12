@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring @RequestHeader Annotation with Example](https://bushansirgur.in/spring-requestheader-annotation-with-example/)
 - [Spring ResponseEntity Example](https://bushansirgur.in/spring-responseentity-example/)
 - [Spring @ModelAttribute Annotation with Example](https://bushansirgur.in/spring-modelattribute-annotation-with-example/)
 - [Spring @ResponseStatus Annotation with Example](https://bushansirgur.in/spring-responsestatus-annotation-with-example/)
 - [Spring @PostConstruct Annotation with Example](https://bushansirgur.in/spring-postconstruct-annotation-with-example/)
-- [Spring MVC @Valid annotation with Example](https://bushansirgur.in/spring-mvc-valid-annotation-with-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

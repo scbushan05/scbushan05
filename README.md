@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Spring @Controller annotation with Example](https://www.youtube.com/watch?v=w2Zai2V0ZtQ)
 - [Spring @RequestHeader annotation with Example](https://www.youtube.com/watch?v=5Gz74x7pJsA)
 - [Spring @ResponseEntity annotation with Example](https://www.youtube.com/watch?v=sDqFX1sSTEo)
 - [Spring @ModelAttribute Annotation with Example](https://www.youtube.com/watch?v=IjVt8uiU_rw)
 - [Spring boot @ResponseStatus Annotation with Example](https://www.youtube.com/watch?v=PB4SEZaaFoE)
-- [Spring boot @PostConstruct Annotation with Example](https://www.youtube.com/watch?v=FpJqPQkCU7I)
 <!-- YOUTUBE:END -->
 
 ---

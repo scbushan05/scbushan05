@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot validation using Hibernate validator](https://bushansirgur.in/spring-boot-validation-using-hibernate-validator/)
 - [Spring @RestController Annotation with Example](https://bushansirgur.in/spring-restcontroller-annotation-with-example/)
 - [Spring @Controller Annotation with Example](https://bushansirgur.in/spring-controller-annotation-with-example/)
 - [Spring @RequestHeader Annotation with Example](https://bushansirgur.in/spring-requestheader-annotation-with-example/)
 - [Spring ResponseEntity Example](https://bushansirgur.in/spring-responseentity-example/)
-- [Spring @ModelAttribute Annotation with Example](https://bushansirgur.in/spring-modelattribute-annotation-with-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

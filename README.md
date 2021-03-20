@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Full Stack Development: React (React Hooks) and Spring Boot - Udemy Course](https://www.youtube.com/watch?v=Bh4tLZo95wM)
 - [Spring @RestController annotation with Example](https://www.youtube.com/watch?v=--nksdxx9O0)
 - [Spring @Controller annotation with Example](https://www.youtube.com/watch?v=w2Zai2V0ZtQ)
 - [Spring @RequestHeader annotation with Example](https://www.youtube.com/watch?v=5Gz74x7pJsA)
 - [Spring @ResponseEntity annotation with Example](https://www.youtube.com/watch?v=sDqFX1sSTEo)
-- [Spring @ModelAttribute Annotation with Example](https://www.youtube.com/watch?v=IjVt8uiU_rw)
 <!-- YOUTUBE:END -->
 
 ---

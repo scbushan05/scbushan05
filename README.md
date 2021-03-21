@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring @GetMapping, @PostMapping, @PutMapping, @DeleteMapping and @PatchMapping Annotation with Examples](https://bushansirgur.in/spring-getmapping-postmapping-putmapping-deletemapping-and-patchmapping-annotation-with-examples/)
 - [Spring Data JPA ID Generators with Examples](https://bushansirgur.in/spring-data-jpa-id-generators-with-examples/)
 - [Spring Boot validation using Hibernate validator](https://bushansirgur.in/spring-boot-validation-using-hibernate-validator/)
 - [Spring @RestController Annotation with Example](https://bushansirgur.in/spring-restcontroller-annotation-with-example/)
 - [Spring @Controller Annotation with Example](https://bushansirgur.in/spring-controller-annotation-with-example/)
-- [Spring @RequestHeader Annotation with Example](https://bushansirgur.in/spring-requestheader-annotation-with-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

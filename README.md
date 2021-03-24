@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Data JPA Finder/Query Methods by Multiple Field Names with Examples](https://bushansirgur.in/spring-data-jpa-finder-query-methods-by-multiple-field-names-with-examples/)
 - [Spring Data JPA Finder Methods by Field Name with Examples](https://bushansirgur.in/spring-data-jpa-finder-methods-by-field-name-with-examples/)
 - [Spring @GetMapping, @PostMapping, @PutMapping, @DeleteMapping and @PatchMapping Annotation with Examples](https://bushansirgur.in/spring-getmapping-postmapping-putmapping-deletemapping-and-patchmapping-annotation-with-examples/)
 - [Spring Data JPA ID Generators with Examples](https://bushansirgur.in/spring-data-jpa-id-generators-with-examples/)
 - [Spring Boot validation using Hibernate validator](https://bushansirgur.in/spring-boot-validation-using-hibernate-validator/)
-- [Spring @RestController Annotation with Example](https://bushansirgur.in/spring-restcontroller-annotation-with-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

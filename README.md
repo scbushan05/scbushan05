@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Full Stack Development: React (React Hooks) and Spring Boot - What is included in Feature 8?](https://www.youtube.com/watch?v=R1taVrRuVzA)
 - [Full Stack Development: React (React Hooks) and Spring Boot - What is included in Feature 7?](https://www.youtube.com/watch?v=BTyB915OElE)
 - [Full Stack Development: React (React Hooks) and Spring Boot - What is included in Feature 6?](https://www.youtube.com/watch?v=nQo7-SpL2lk)
 - [Full Stack Development: React (React Hooks) and Spring Boot - What is included in Feature 5?](https://www.youtube.com/watch?v=hYv8AnUcs4Y)
 - [Full Stack Development: React (React Hooks) and Spring Boot - What is included in Feature 4?](https://www.youtube.com/watch?v=7HiujT1nGV8)
-- [Full Stack Development: React (React Hooks) and Spring Boot - What is included in Feature 3?](https://www.youtube.com/watch?v=5xVXGdsGLns)
 <!-- YOUTUBE:END -->
 
 ---

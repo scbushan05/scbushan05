@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Spring Data JPA Query or Finder Methods - Find by field names](https://www.youtube.com/watch?v=VRQBO0vXX3w)
+- [Spring Data JPA Query or Finder Methods - Find by multiple field names](https://www.youtube.com/watch?v=XjIIA08MIlU)
 - [Full Stack Development: React (React Hooks) and Spring Boot - What is included in Feature 9?](https://www.youtube.com/watch?v=kBZcatCeka8)
 - [Full Stack Development: React (React Hooks) and Spring Boot - What is included in Feature 8?](https://www.youtube.com/watch?v=R1taVrRuVzA)
 - [Full Stack Development: React (React Hooks) and Spring Boot - What is included in Feature 7?](https://www.youtube.com/watch?v=BTyB915OElE)
-- [Full Stack Development: React (React Hooks) and Spring Boot - What is included in Feature 6?](https://www.youtube.com/watch?v=nQo7-SpL2lk)
-- [Full Stack Development: React (React Hooks) and Spring Boot - What is included in Feature 5?](https://www.youtube.com/watch?v=hYv8AnUcs4Y)
 <!-- YOUTUBE:END -->
 
 ---

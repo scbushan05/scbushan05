@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Data JPA Query Methods In with Examples](https://bushansirgur.in/spring-data-jpa-query-methods-in-with-examples/)
 - [Spring Data JPA Query Methods Like with Example](https://bushansirgur.in/spring-data-jpa-query-methods-like-with-example/)
 - [Spring Data JPA Between Date Example](https://bushansirgur.in/spring-data-jpa-between-date-example/)
 - [Spring Data JPA Contains Query with Example](https://bushansirgur.in/spring-data-jpa-finder-query-method-containing-with-example/)
 - [Spring Data JPA Greater than with Example](https://bushansirgur.in/spring-data-jpa-query-finder-method-lessthan-and-greaterthan-with-example/)
-- [Spring Data JPA findBy Multiple Columns with Example](https://bushansirgur.in/spring-data-jpa-finder-query-methods-by-multiple-field-names-with-examples/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

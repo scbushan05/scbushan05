@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot JPA Pagination and Sorting with Example](https://bushansirgur.in/spring-boot-jpa-pagination-and-sorting-with-example/)
 - [Spring Boot Thymeleaf for each with Example](https://bushansirgur.in/spring-boot-thymeleaf-for-each-with-example/)
 - [Most commonly used Java Math methods with Examples](https://bushansirgur.in/most-commonly-used-java-math-methods-with-examples/)
 - [Spring Boot Thymeleaf CSS JS with Example](https://bushansirgur.in/spring-boot-thymeleaf-css-js-with-example/)
 - [Spring Boot Thymeleaf with Example](https://bushansirgur.in/spring-boot-thymeleaf-with-example/)
-- [Spring Data JPA Sort Multiple Columns with Examples](https://bushansirgur.in/spring-data-jpa-sort-multiple-columns-with-examples/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

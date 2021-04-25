@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Spring Data JPA Query or Finder Methods - Find by in](https://www.youtube.com/watch?v=v9OanfheQvA)
 - [Spring Data JPA Query or Finder Methods - Find by between](https://www.youtube.com/watch?v=UHEDH3lnLb8)
 - [Spring Data JPA Query or Finder Methods - Find by Like](https://www.youtube.com/watch?v=NMA4ndswwuo)
 - [Spring Data JPA Query or Finder Methods - Find by contains](https://www.youtube.com/watch?v=exE5_IhCRn0)
 - [Spring Data JPA Query or Finder Methods - Find by greater than and less than](https://www.youtube.com/watch?v=Ms_j32HRUcQ)
-- [Spring Data JPA Query or Finder Methods - Find by field names](https://www.youtube.com/watch?v=VRQBO0vXX3w)
 <!-- YOUTUBE:END -->
 
 ---

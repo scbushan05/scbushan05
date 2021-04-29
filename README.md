@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Everything you need to know about Javascript Hoisting](https://bushansirgur.in/everything-you-need-to-know-about-javascript-hoisting/)
 - [Spring Boot JPA Pagination and Sorting with Example](https://bushansirgur.in/spring-boot-jpa-pagination-and-sorting-with-example/)
 - [Spring Boot Thymeleaf for each with Example](https://bushansirgur.in/spring-boot-thymeleaf-for-each-with-example/)
 - [Most commonly used Java Math methods with Examples](https://bushansirgur.in/most-commonly-used-java-math-methods-with-examples/)
 - [Spring Boot Thymeleaf CSS JS with Example](https://bushansirgur.in/spring-boot-thymeleaf-css-js-with-example/)
-- [Spring Boot Thymeleaf with Example](https://bushansirgur.in/spring-boot-thymeleaf-with-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

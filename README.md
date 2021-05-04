@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Important Git terminologies that every developer should know](https://bushansirgur.in/important-git-terminologies-that-every-developer-should-know/)
 - [Everything you need to know about constructors in Java](https://bushansirgur.in/everything-you-need-to-know-about-constructors-in-java/)
 - [Everything you need to know about Javascript Variables](https://bushansirgur.in/everything-you-need-to-know-about-javascript-variables/)
 - [Everything you need to know about Javascript Hoisting](https://bushansirgur.in/everything-you-need-to-know-about-javascript-hoisting/)
 - [Spring Boot JPA Pagination and Sorting with Example](https://bushansirgur.in/spring-boot-jpa-pagination-and-sorting-with-example/)
-- [Spring Boot Thymeleaf for each with Example](https://bushansirgur.in/spring-boot-thymeleaf-for-each-with-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

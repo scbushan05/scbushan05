@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [New coupon codes available for Udemy courses](https://www.youtube.com/watch?v=ERkpWwd-NTs)
 - [03 Spring Boot with Thymeleaf Tutorial - Foreach in Thymeleaf](https://www.youtube.com/watch?v=jYuk5MWtpKU)
 - [04 Spring Boot with Thymeleaf Tutorial - Dropdown in Thymeleaf](https://www.youtube.com/watch?v=LJKv2dKZrT4)
 - [01 Spring Boot with Thymeleaf Tutorial - Integrate Spring Boot with Thymeleaf](https://www.youtube.com/watch?v=3Fc371lChUI)
 - [02 Spring Boot with Thymeleaf Tutorial - Add Javascript and CSS to Thymeleaf](https://www.youtube.com/watch?v=-piq1ja_Kk4)
-- [Spring Data JPA Query or Finder Methods - Find by in](https://www.youtube.com/watch?v=v9OanfheQvA)
 <!-- YOUTUBE:END -->
 
 ---

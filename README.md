@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Customize the Spring security to permit and deny the specific requests](https://bushansirgur.in/customize-the-spring-security-to-permit-and-deny-the-specific-requests/)
 - [Change the default username and password of Spring security application](https://bushansirgur.in/change-the-default-username-and-password-of-spring-security-application/)
 - [Add Spring Security to Spring Boot Application](https://bushansirgur.in/add-spring-security-to-spring-boot-application/)
 - [Introduction to Object Oriented Programming (OOP’s)](https://bushansirgur.in/introduction-to-object-oriented-programming-oops/)
 - [Important Git terminologies that every developer should know](https://bushansirgur.in/important-git-terminologies-that-every-developer-should-know/)
-- [Everything you need to know about constructors in Java](https://bushansirgur.in/everything-you-need-to-know-about-constructors-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

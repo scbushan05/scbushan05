@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Java 3 Tier Architecture](https://bushansirgur.in/java-3-tier-architecture/)
 - [Customize the Spring security to deny all the requests](https://bushansirgur.in/customize-the-spring-security-to-deny-all-the-requests/)
 - [Customize the Spring security to permit all the requests](https://bushansirgur.in/customize-the-spring-security-to-permit-all-the-requests/)
 - [Customize the Spring security to permit and deny the specific requests](https://bushansirgur.in/customize-the-spring-security-to-permit-and-deny-the-specific-requests/)
 - [Change the default username and password of Spring security application](https://bushansirgur.in/change-the-default-username-and-password-of-spring-security-application/)
-- [Add Spring Security to Spring Boot Application](https://bushansirgur.in/add-spring-security-to-spring-boot-application/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

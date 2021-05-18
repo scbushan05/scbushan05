@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Java MVC Design Pattern](https://www.youtube.com/watch?v=f0HMUfbus4U)
 - [Java 3 Layer Architecture](https://www.youtube.com/watch?v=k6OdsIrA0Gk)
 - [New coupon codes available for Udemy courses](https://www.youtube.com/watch?v=ERkpWwd-NTs)
 - [03 Spring Boot with Thymeleaf Tutorial - Foreach in Thymeleaf](https://www.youtube.com/watch?v=jYuk5MWtpKU)
 - [04 Spring Boot with Thymeleaf Tutorial - Dropdown in Thymeleaf](https://www.youtube.com/watch?v=LJKv2dKZrT4)
-- [01 Spring Boot with Thymeleaf Tutorial - Integrate Spring Boot with Thymeleaf](https://www.youtube.com/watch?v=3Fc371lChUI)
 <!-- YOUTUBE:END -->
 
 ---

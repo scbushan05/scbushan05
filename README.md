@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Security Configure Users using in memory authentication](https://bushansirgur.in/spring-security-configure-users-using-in-memory-authentication/)
 - [Java MVC Design Pattern](https://bushansirgur.in/java-mvc-design-pattern/)
 - [Java 3 Tier Architecture](https://bushansirgur.in/java-3-tier-architecture/)
 - [Customize the Spring security to deny all the requests](https://bushansirgur.in/customize-the-spring-security-to-deny-all-the-requests/)
 - [Customize the Spring security to permit all the requests](https://bushansirgur.in/customize-the-spring-security-to-permit-all-the-requests/)
-- [Customize the Spring security to permit and deny the specific requests](https://bushansirgur.in/customize-the-spring-security-to-permit-and-deny-the-specific-requests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Build REST API with Spring Boot and JPA [2021] - 02 Create Spring Boot Project](https://www.youtube.com/watch?v=nUlkUzHVUs0)
+- [Build REST API with Spring Boot and JPA [2021] - 01 Course Introduction](https://www.youtube.com/watch?v=JhGUgDuhWgk)
 - [Java MVC Design Pattern](https://www.youtube.com/watch?v=f0HMUfbus4U)
 - [Java 3 Layer Architecture](https://www.youtube.com/watch?v=k6OdsIrA0Gk)
 - [New coupon codes available for Udemy courses](https://www.youtube.com/watch?v=ERkpWwd-NTs)
-- [03 Spring Boot with Thymeleaf Tutorial - Foreach in Thymeleaf](https://www.youtube.com/watch?v=jYuk5MWtpKU)
-- [04 Spring Boot with Thymeleaf Tutorial - Dropdown in Thymeleaf](https://www.youtube.com/watch?v=LJKv2dKZrT4)
 <!-- YOUTUBE:END -->
 
 ---

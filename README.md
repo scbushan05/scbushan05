@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Build REST API with Spring Boot and JPA [2021] - 05 Path Variable](https://www.youtube.com/watch?v=41_YBFoNmiI)
+- [Build REST API with Spring Boot and JPA [2021] - 06 Request Param](https://www.youtube.com/watch?v=5fgUUDC_C24)
 - [Build REST API with Spring Boot and JPA [2021] - 04 Add dependencies](https://www.youtube.com/watch?v=bhpmaMRo49s)
 - [Build REST API with Spring Boot and JPA [2021] - 03 Create a Controller](https://www.youtube.com/watch?v=hmb3HEVBkC4)
 - [Build REST API with Spring Boot and JPA [2021] - 02 Create Spring Boot Project](https://www.youtube.com/watch?v=nUlkUzHVUs0)
-- [Build REST API with Spring Boot and JPA [2021] - 01 Course Introduction](https://www.youtube.com/watch?v=JhGUgDuhWgk)
-- [Java MVC Design Pattern](https://www.youtube.com/watch?v=f0HMUfbus4U)
 <!-- YOUTUBE:END -->
 
 ---

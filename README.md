@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Build REST API with Spring Boot and JPA [2021] - 09 HTTP PUT Method](https://www.youtube.com/watch?v=uiSwibTWGE0)
+- [Build REST API with Spring Boot and JPA [2021] - 10 Read properties using @Value annotation](https://www.youtube.com/watch?v=iS_UHIbzxVo)
 - [Build REST API with Spring Boot and JPA [2021] - 07 Organize APIs in Postman](https://www.youtube.com/watch?v=NMiCOVdU-Sk)
 - [Build REST API with Spring Boot and JPA [2021] - 08 Map the JSON data to Java Object](https://www.youtube.com/watch?v=Q0nf60VZwVw)
 - [Quick Announcement - Udemy Biggest Sale of the Season](https://www.youtube.com/watch?v=bLv3ftR9W4s)
-- [Build REST API with Spring Boot and JPA [2021] - 05 Path Variable](https://www.youtube.com/watch?v=41_YBFoNmiI)
-- [Build REST API with Spring Boot and JPA [2021] - 06 Request Param](https://www.youtube.com/watch?v=5fgUUDC_C24)
 <!-- YOUTUBE:END -->
 
 ---

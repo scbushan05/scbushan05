@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Counter Project for Beginners](https://bushansirgur.in/javascript-couter-project-for-beginners/)
 - [Spring Security Configure Users using JdbcUserDetailsManager implementation](https://bushansirgur.in/spring-security-configure-users-using-jdbcuserdetailsmanager-implementation/)
 - [Spring Security Configure Users using InMemoryUserDetailsManager](https://bushansirgur.in/spring-security-configure-users-using-inmemoryuserdetailsmanager/)
 - [Jackson @JsonIgnore and @JsonProperty annotation with Example](https://bushansirgur.in/jackson-jsonignore-and-jsonproperty-annotation-with-example/)
 - [Spring @Value annotation with Example](https://bushansirgur.in/spring-value-annotation-with-example/)
-- [Spring Security Configure Users using inMemoryAuthentication](https://bushansirgur.in/spring-security-configure-users-using-in-memory-authentication/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

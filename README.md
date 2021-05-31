@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Customize Spring Security to Create our own custom implementation of UserDetailsService](https://bushansirgur.in/customize-spring-security-to-create-our-own-custom-implementation-of-userdetailsservice/)
 - [Testimonials JavaScript Project for Beginners](https://bushansirgur.in/testimonials-javascript-project-for-beginners/)
 - [Javascript Background Image Slider Project for Beginners](https://bushansirgur.in/javascript-background-image-slider-project-for-beginners/)
 - [Javascript Counter Project for Beginners](https://bushansirgur.in/javascript-couter-project-for-beginners/)
 - [Spring Security Configure Users using JdbcUserDetailsManager implementation](https://bushansirgur.in/spring-security-configure-users-using-jdbcuserdetailsmanager-implementation/)
-- [Spring Security Configure Users using InMemoryUserDetailsManager](https://bushansirgur.in/spring-security-configure-users-using-inmemoryuserdetailsmanager/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

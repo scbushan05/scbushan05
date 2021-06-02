@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Modal Project for Beginners](https://bushansirgur.in/javascript-modal-project-for-beginners/)
 - [Implement password encoder in Spring Security Application using BCryptPasswordEncoder](https://bushansirgur.in/implement-password-encoder-in-spring-security-application-using-bcryptpasswordencoder/)
 - [Javascript Filter Project for Beginners](https://bushansirgur.in/javascript-filter-project-for-beginners/)
 - [Customize Spring Security to Create our own custom implementation of UserDetailsService](https://bushansirgur.in/customize-spring-security-to-create-our-own-custom-implementation-of-userdetailsservice/)
 - [Testimonials JavaScript Project for Beginners](https://bushansirgur.in/testimonials-javascript-project-for-beginners/)
-- [Javascript Background Image Slider Project for Beginners](https://bushansirgur.in/javascript-background-image-slider-project-for-beginners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

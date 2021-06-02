@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Build REST API with Spring Boot and JPA [2021] - 20 Save the record to the database](https://www.youtube.com/watch?v=1IiE08BD93w)
+- [Build REST API with Spring Boot and JPA [2021] - 19 Fetch the records from the database](https://www.youtube.com/watch?v=Gnu0slsN2Y8)
 - [Build REST API with Spring Boot and JPA [2021] - 18 Create an entity class](https://www.youtube.com/watch?v=y2a1sB2M0uE)
 - [Build REST API with Spring Boot and JPA [2021] - 17 Configure datasource](https://www.youtube.com/watch?v=6-qJtDqGQFg)
 - [Build REST API with Spring Boot and JPA [2021] - 16 Create Database and Table](https://www.youtube.com/watch?v=d53d7kUfL5Q)
-- [Build REST API with Spring Boot and JPA [2021] - 15 Change the Base URL](https://www.youtube.com/watch?v=7oeIQbOtOTY)
-- [Build REST API with Spring Boot and JPA [2021] - 13 Jackson @JsonIgnore and @JsonProperty](https://www.youtube.com/watch?v=iO22iX0QiT4)
 <!-- YOUTUBE:END -->
 
 ---

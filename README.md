@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Build REST API with Spring Boot and JPA [2021] - 23 Update the record](https://www.youtube.com/watch?v=2fe6ZJrglEY)
 - [Build REST API with Spring Boot and JPA [2021] - 24 Create database tables by JPA](https://www.youtube.com/watch?v=MkBSlnQFdQQ)
 - [Build REST API with Spring Boot and JPA [2021] - 21 Get a single record by id](https://www.youtube.com/watch?v=Y_4wyCERteo)
 - [Build REST API with Spring Boot and JPA [2021] - 22 Delete record from database](https://www.youtube.com/watch?v=SgC00PIkedg)
 - [Build REST API with Spring Boot and JPA [2021] - 20 Save the record to the database](https://www.youtube.com/watch?v=1IiE08BD93w)
-- [Build REST API with Spring Boot and JPA [2021] - 19 Fetch the records from the database](https://www.youtube.com/watch?v=Gnu0slsN2Y8)
 <!-- YOUTUBE:END -->
 
 ---

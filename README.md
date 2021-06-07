@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Build REST API with Spring Boot and JPA [2021] - 27 Add validation to the REST API](https://www.youtube.com/watch?v=vkCFLYekG6k)
+- [Build REST API with Spring Boot and JPA [2021] - 28 Customize the validation messages](https://www.youtube.com/watch?v=UaZTCIwc4P4)
 - [Build REST API with Spring Boot and JPA [2021] - 25 Create timestamps by JPA](https://www.youtube.com/watch?v=j8J9Cx8pEsI)
 - [Build REST API with Spring Boot and JPA [2021] - 26 @Column annotation is mandatory?](https://www.youtube.com/watch?v=wrnMGJpc1EA)
 - [Build REST API with Spring Boot and JPA [2021] - 23 Update the record](https://www.youtube.com/watch?v=2fe6ZJrglEY)
-- [Build REST API with Spring Boot and JPA [2021] - 24 Create database tables by JPA](https://www.youtube.com/watch?v=MkBSlnQFdQQ)
-- [Build REST API with Spring Boot and JPA [2021] - 21 Get a single record by id](https://www.youtube.com/watch?v=Y_4wyCERteo)
 <!-- YOUTUBE:END -->
 
 ---

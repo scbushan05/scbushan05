@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Simple Add to Cart Project for Beginners](https://bushansirgur.in/javascript-simple-add-to-cart-project-for-beginners/)
 - [Configure Roles in Spring Security](https://bushansirgur.in/configure-roles-in-spring-security/)
 - [Javascript Simple Todo Project for Beginners](https://bushansirgur.in/javascript-simple-todo-project-for-beginners/)
 - [Configure Authorities in Spring Security Application](https://bushansirgur.in/configure-authorities-in-spring-security-application/)
 - [Simple Javascript Tip Calculator](https://bushansirgur.in/simple-javascript-tip-calculator/)
-- [Javascript Simple Calculator Project](https://bushansirgur.in/javascript-simple-calculator-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

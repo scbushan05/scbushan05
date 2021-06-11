@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Build REST API with Spring Boot and JPA [2021] - 35 Data JPA Sorting](https://www.youtube.com/watch?v=nbbGldipAmc)
+- [Build REST API with Spring Boot and JPA [2021] - 36 Data JPA Pagination and Sorting](https://www.youtube.com/watch?v=wWINtadeeDk)
 - [Build REST API with Spring Boot and JPA [2021] - 34 Data JPA Pagination](https://www.youtube.com/watch?v=HgB90XUmpeE)
 - [Build REST API with Spring Boot and JPA [2021] - 33 JPA Query method or Finder method [Part 3]](https://www.youtube.com/watch?v=L_4CqZqCvcY)
 - [Build REST API with Spring Boot and JPA [2021] - 32 JPA Query method or Finder method [Part 2]](https://www.youtube.com/watch?v=EU0jFO8qqDc)
-- [Build REST API with Spring Boot and JPA [2021] - 31 JPA Query method or Finder method [Part 1]](https://www.youtube.com/watch?v=YfGY2sQCXR0)
-- [Build REST API with Spring Boot and JPA [2021] - 30 Change the HTTP status code](https://www.youtube.com/watch?v=seSIYwy5DXs)
 <!-- YOUTUBE:END -->
 
 ---

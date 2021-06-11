@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot JPQL Update Query with Example](https://bushansirgur.in/spring-boot-jpql-update-query-with-example/)
 - [Spring Boot Data JPA JPQL Delete Query](https://bushansirgur.in/spring-boot-data-jpa-jpql-delete-query/)
 - [Spring Boot Data JPA JPQL Select Query](https://bushansirgur.in/spring-boot-data-jpa-jpql-select-query/)
 - [Javascript Simple Add to Cart Project for Beginners](https://bushansirgur.in/javascript-simple-add-to-cart-project-for-beginners/)
 - [Configure Roles in Spring Security](https://bushansirgur.in/configure-roles-in-spring-security/)
-- [Javascript Simple Todo Project for Beginners](https://bushansirgur.in/javascript-simple-todo-project-for-beginners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

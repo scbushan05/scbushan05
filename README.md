@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Data JPA Join Query Example](https://bushansirgur.in/spring-data-jpa-join-query-example/)
 - [Spring Boot and JPA One to One Mapping with Example](https://bushansirgur.in/spring-boot-and-jpa-one-to-one-mapping-with-example/)
 - [Spring Boot JPQL Update Query with Example](https://bushansirgur.in/spring-boot-jpql-update-query-with-example/)
 - [Spring Boot Data JPA JPQL Delete Query](https://bushansirgur.in/spring-boot-data-jpa-jpql-delete-query/)
 - [Spring Boot Data JPA JPQL Select Query](https://bushansirgur.in/spring-boot-data-jpa-jpql-select-query/)
-- [Javascript Simple Add to Cart Project for Beginners](https://bushansirgur.in/javascript-simple-add-to-cart-project-for-beginners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

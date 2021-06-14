@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Todo Application for Intermediate](https://bushansirgur.in/javascript-todo-application-for-intermediate/)
 - [Spring Data JPA JPQL Join Query with Example](https://bushansirgur.in/spring-data-jpa-jpql-join-query-with-example/)
 - [Spring Data JPA Join Query Example](https://bushansirgur.in/spring-data-jpa-join-query-example/)
 - [Spring Boot and JPA One to One Mapping with Example](https://bushansirgur.in/spring-boot-and-jpa-one-to-one-mapping-with-example/)
 - [Spring Boot JPQL Update Query with Example](https://bushansirgur.in/spring-boot-jpql-update-query-with-example/)
-- [Spring Boot Data JPA JPQL Delete Query](https://bushansirgur.in/spring-boot-data-jpa-jpql-delete-query/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

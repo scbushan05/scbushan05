@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Build REST API with Spring Boot and JPA [2021] - 38 JPQL Delete query in Data JPA](https://www.youtube.com/watch?v=NHj0sMjDJWs)
+- [Build REST API with Spring Boot and JPA [2021] - 37 JPQL Select query in Data JPA](https://www.youtube.com/watch?v=J9O1MVdIcNo)
 - [Top 3 Programming languages you should be good at by end of 2021](https://www.youtube.com/watch?v=khD_SStxRTU)
 - [3 Different ways to make money being a software developer](https://www.youtube.com/watch?v=AGkLyeLJ-V4)
 - [Build REST API with Spring Boot and JPA [2021] - 35 Data JPA Sorting](https://www.youtube.com/watch?v=nbbGldipAmc)
-- [Build REST API with Spring Boot and JPA [2021] - 36 Data JPA Pagination and Sorting](https://www.youtube.com/watch?v=wWINtadeeDk)
-- [Build REST API with Spring Boot and JPA [2021] - 34 Data JPA Pagination](https://www.youtube.com/watch?v=HgB90XUmpeE)
 <!-- YOUTUBE:END -->
 
 ---

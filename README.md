@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Build REST API with Spring Boot and JPA [2021] - 41 JPQL Join query in Data JPA](https://www.youtube.com/watch?v=BIAT5em50-o)
 - [Build REST API with Spring Boot and JPA [2021] - 39 One to One mapping in Data JPA](https://www.youtube.com/watch?v=twdIZJpI5Wg)
 - [Build REST API with Spring Boot and JPA [2021] - 40 Join query in Data JPA](https://www.youtube.com/watch?v=Fy9WMZ__SFg)
 - [Build REST API with Spring Boot and JPA [2021] - 38 JPQL Delete query in Data JPA](https://www.youtube.com/watch?v=NHj0sMjDJWs)
 - [Build REST API with Spring Boot and JPA [2021] - 37 JPQL Select query in Data JPA](https://www.youtube.com/watch?v=J9O1MVdIcNo)
-- [Top 3 Programming languages you should be good at by end of 2021](https://www.youtube.com/watch?v=khD_SStxRTU)
 <!-- YOUTUBE:END -->
 
 ---

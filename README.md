@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot JPA One to One Bi-directional with Example](https://bushansirgur.in/spring-boot-jpa-one-to-one-bi-directional-with-example/)
 - [Javascript Flash Card Project for Beginners](https://bushansirgur.in/javascript-flash-card-project-for-beginners/)
 - [Javascript Form Based Project for Beginners](https://bushansirgur.in/javascript-form-based-project-for-beginners/)
 - [Javascript Todo Application for Intermediate](https://bushansirgur.in/javascript-todo-application-for-intermediate/)
 - [Spring Data JPA JPQL Join Query with Example](https://bushansirgur.in/spring-data-jpa-jpql-join-query-with-example/)
-- [Spring Data JPA Join Query Example](https://bushansirgur.in/spring-data-jpa-join-query-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

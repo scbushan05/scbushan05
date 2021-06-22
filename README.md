@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot and Data JPA @NamedNativeQuery annotation with Example](https://bushansirgur.in/spring-boot-and-data-jpa-namednativequery-annotation-with-example/)
 - [Spring Boot and Data JPA @NamedQuery Annotation with Example](https://bushansirgur.in/spring-boot-and-data-jpa-namedquery-annotation-with-example/)
 - [Spring Boot and Data JPA Native Query with Example](https://bushansirgur.in/spring-boot-and-data-jpa-native-query-with-example/)
 - [Javascript Random Joke API Project for Beginners](https://bushansirgur.in/javascript-random-joke-api-project-for-beginners/)
 - [Spring Data JPA One to Many Bi-directional Example](https://bushansirgur.in/spring-data-jpa-one-to-many-bi-directional-example/)
-- [Javascript Budget Project for Intermediates](https://bushansirgur.in/javascript-budget-project-for-intermediates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

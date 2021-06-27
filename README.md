@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Swagger Open API 3 with Example](https://bushansirgur.in/spring-boot-swagger-open-api-3-with-example/)
 - [Swagger API Documentation Example Spring Boot](https://bushansirgur.in/swagger-api-documentation-example-spring-boot/)
 - [Spring Boot and Data JPA @NamedNativeQuery annotation with Example](https://bushansirgur.in/spring-boot-and-data-jpa-namednativequery-annotation-with-example/)
 - [Spring Boot and Data JPA @NamedQuery Annotation with Example](https://bushansirgur.in/spring-boot-and-data-jpa-namedquery-annotation-with-example/)
 - [Spring Boot and Data JPA Native Query with Example](https://bushansirgur.in/spring-boot-and-data-jpa-native-query-with-example/)
-- [Javascript Random Joke API Project for Beginners](https://bushansirgur.in/javascript-random-joke-api-project-for-beginners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

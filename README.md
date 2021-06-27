@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Build REST API with Spring Boot and JPA [2021] - 46 @NamedNativeQuery annotation](https://www.youtube.com/watch?v=S6XuKRZqr58)
+- [Build REST API with Spring Boot and JPA [2021] - 45 JPA Native SQL Query](https://www.youtube.com/watch?v=CU9vvtS1tzA)
 - [Build REST API with Spring Boot and JPA [2021] - 44 One to Many Bi-directional in Data JPA](https://www.youtube.com/watch?v=oQ_f5KPXHLA)
 - [Build REST API with Spring Boot and JPA [2021] - 43 One to One Bi-directional in Data JPA](https://www.youtube.com/watch?v=BCx8e9RDjB0)
 - [Build REST API with Spring Boot and JPA [2021] - 42 One to Many Mapping in Data JPA](https://www.youtube.com/watch?v=I15HzRI-0v4)
-- [Build REST API with Spring Boot and JPA [2021] - 41 JPQL Join query in Data JPA](https://www.youtube.com/watch?v=BIAT5em50-o)
-- [Build REST API with Spring Boot and JPA [2021] - 39 One to One mapping in Data JPA](https://www.youtube.com/watch?v=twdIZJpI5Wg)
 <!-- YOUTUBE:END -->
 
 ---

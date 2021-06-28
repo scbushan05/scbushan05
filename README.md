@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Build REST API with Spring Boot and JPA [2021] - 47 Document APIs using Swagger](https://www.youtube.com/watch?v=GbV1nsqI2-w)
+- [Build REST API with Spring Boot and JPA [2021] - 47 @NamedQuery annotation](https://www.youtube.com/watch?v=5ePUHVP9kso)
 - [Build REST API with Spring Boot and JPA [2021] - 46 @NamedNativeQuery annotation](https://www.youtube.com/watch?v=S6XuKRZqr58)
 - [Build REST API with Spring Boot and JPA [2021] - 45 JPA Native SQL Query](https://www.youtube.com/watch?v=CU9vvtS1tzA)
 - [Build REST API with Spring Boot and JPA [2021] - 44 One to Many Bi-directional in Data JPA](https://www.youtube.com/watch?v=oQ_f5KPXHLA)
-- [Build REST API with Spring Boot and JPA [2021] - 43 One to One Bi-directional in Data JPA](https://www.youtube.com/watch?v=BCx8e9RDjB0)
-- [Build REST API with Spring Boot and JPA [2021] - 42 One to Many Mapping in Data JPA](https://www.youtube.com/watch?v=I15HzRI-0v4)
 <!-- YOUTUBE:END -->
 
 ---

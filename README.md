@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pass input data to GraphQL query and Spring Boot Example](https://bushansirgur.in/pass-input-data-to-graphql-query-and-spring-boot-example/)
 - [Create a GraphQL Query with Spring Boot and Test it using Altair Plugin](https://bushansirgur.in/create-a-graphql-query-with-spring-boot-and-test-it-using-altair-plugin/)
 - [Create a GraphQL Query with Spring Boot and Test it using GraphiQL](https://bushansirgur.in/create-a-first-graphql-query-with-spring-boot-and-test-it-using-graphiql/)
 - [Spring Boot Swagger Open API 3 with Example](https://bushansirgur.in/spring-boot-swagger-open-api-3-with-example/)
 - [Swagger API Documentation Example Spring Boot](https://bushansirgur.in/swagger-api-documentation-example-spring-boot/)
-- [Spring Boot and Data JPA @NamedNativeQuery annotation with Example](https://bushansirgur.in/spring-boot-and-data-jpa-namednativequery-annotation-with-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

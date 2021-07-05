@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mortgage Loan Calculator Javascript Project for Beginners](https://bushansirgur.in/mortgage-loan-calculator-javascript-project-for-beginners/)
 - [Pass JSON to GraphQL Query with Spring Boot Example](https://bushansirgur.in/pass-json-to-graphql-query-with-spring-boot-example/)
 - [Pass input data to GraphQL query and Spring Boot Example](https://bushansirgur.in/pass-input-data-to-graphql-query-and-spring-boot-example/)
 - [Create a GraphQL Query with Spring Boot and Test it using Altair Plugin](https://bushansirgur.in/create-a-graphql-query-with-spring-boot-and-test-it-using-altair-plugin/)
 - [Create a GraphQL Query with Spring Boot and Test it using GraphiQL](https://bushansirgur.in/create-a-first-graphql-query-with-spring-boot-and-test-it-using-graphiql/)
-- [Spring Boot Swagger Open API 3 with Example](https://bushansirgur.in/spring-boot-swagger-open-api-3-with-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

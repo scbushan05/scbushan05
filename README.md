@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Add Validations to the GraphQL Schema with Example](https://bushansirgur.in/add-validations-to-the-graphql-schema-with-example/)
 - [Mortgage Loan Calculator Javascript Project for Beginners](https://bushansirgur.in/mortgage-loan-calculator-javascript-project-for-beginners/)
 - [Pass JSON to GraphQL Query with Spring Boot Example](https://bushansirgur.in/pass-json-to-graphql-query-with-spring-boot-example/)
 - [Pass input data to GraphQL query and Spring Boot Example](https://bushansirgur.in/pass-input-data-to-graphql-query-and-spring-boot-example/)
 - [Create a GraphQL Query with Spring Boot and Test it using Altair Plugin](https://bushansirgur.in/create-a-graphql-query-with-spring-boot-and-test-it-using-altair-plugin/)
-- [Create a GraphQL Query with Spring Boot and Test it using GraphiQL](https://bushansirgur.in/create-a-first-graphql-query-with-spring-boot-and-test-it-using-graphiql/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

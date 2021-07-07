@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [GraphQL and Spring Boot Tutorial - 05 Test GraphQL Queries with Altair plugin](https://www.youtube.com/watch?v=JiVhKPmJdII)
+- [GraphQL and Spring Boot Tutorial - 04 Create a schema and Test the query](https://www.youtube.com/watch?v=M9N0FdUWUMk)
 - [GraphQL and Spring Boot Tutorial - 03 Create a Resolver](https://www.youtube.com/watch?v=AoPVvZbb7rs)
 - [GraphQL and Spring Boot Tutorial - 02 Create Spring Boot Project in STS](https://www.youtube.com/watch?v=mUGxnevuw7s)
 - [GraphQL and Spring Boot Tutorial - 01 Introduction](https://www.youtube.com/watch?v=Nl7q_1b5iac)
-- [Build REST API with Spring Boot and JPA [2021] - 47 Document APIs using Swagger](https://www.youtube.com/watch?v=GbV1nsqI2-w)
-- [Build REST API with Spring Boot and JPA [2021] - 47 @NamedQuery annotation](https://www.youtube.com/watch?v=5ePUHVP9kso)
 <!-- YOUTUBE:END -->
 
 ---

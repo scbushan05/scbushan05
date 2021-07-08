@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [GraphQL and Spring Boot Tutorial - 07 Pass JSON data to the GraphQL query](https://www.youtube.com/watch?v=ixwQjhnKCNM)
+- [GraphQL and Spring Boot Tutorial - 06 Pass input data to the GraphQL query](https://www.youtube.com/watch?v=nSUiTtNQjGY)
 - [GraphQL and Spring Boot Tutorial - 05 Test GraphQL Queries with Altair plugin](https://www.youtube.com/watch?v=JiVhKPmJdII)
 - [GraphQL and Spring Boot Tutorial - 04 Create a schema and Test the query](https://www.youtube.com/watch?v=M9N0FdUWUMk)
 - [GraphQL and Spring Boot Tutorial - 03 Create a Resolver](https://www.youtube.com/watch?v=AoPVvZbb7rs)
-- [GraphQL and Spring Boot Tutorial - 02 Create Spring Boot Project in STS](https://www.youtube.com/watch?v=mUGxnevuw7s)
-- [GraphQL and Spring Boot Tutorial - 01 Introduction](https://www.youtube.com/watch?v=Nl7q_1b5iac)
 <!-- YOUTUBE:END -->
 
 ---

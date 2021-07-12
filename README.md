@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [JSF Pass Parameter to Next Page](https://bushansirgur.in/jsf-pass-parameter-to-next-page/)
 - [JSF (JavaServer Faces) Hello World Example Eclipse Tomcat](https://bushansirgur.in/jsf-hello-world-example-eclipse-tomcat/)
 - [Everything need to know about Matchers methods in Spring Security](https://bushansirgur.in/everything-need-to-know-about-matchers-methods-in-spring-security/)
 - [Add Validations to the GraphQL Schema with Example](https://bushansirgur.in/add-validations-to-the-graphql-schema-with-example/)
 - [Mortgage Loan Calculator Javascript Project for Beginners](https://bushansirgur.in/mortgage-loan-calculator-javascript-project-for-beginners/)
-- [Pass JSON to GraphQL Query with Spring Boot Example](https://bushansirgur.in/pass-json-to-graphql-query-with-spring-boot-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

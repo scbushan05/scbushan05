@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Read Form Data using Managed Bean in JSF with Example](https://bushansirgur.in/read-form-data-using-managed-bean-in-jsf-with-example/)
 - [JavaServer Faces (JSF) Create Login Page](https://bushansirgur.in/javaserver-faces-jsf-create-login-page/)
 - [JSF Pass Parameter to Next Page](https://bushansirgur.in/jsf-pass-parameter-to-next-page/)
 - [JSF (JavaServer Faces) Hello World Example Eclipse Tomcat](https://bushansirgur.in/jsf-hello-world-example-eclipse-tomcat/)
 - [Everything need to know about Matchers methods in Spring Security](https://bushansirgur.in/everything-need-to-know-about-matchers-methods-in-spring-security/)
-- [Add Validations to the GraphQL Schema with Example](https://bushansirgur.in/add-validations-to-the-graphql-schema-with-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [JSF Radio Button Options from Managed Bean](https://bushansirgur.in/jsf-radio-button-options-from-managed-bean/)
 - [JSF Radio Button Example](https://bushansirgur.in/jsf-radio-button-example/)
 - [JSF Dropdown List from Managed Bean](https://bushansirgur.in/jsf-dropdown-list-from-managed-bean/)
 - [JSF Dropdown List Example](https://bushansirgur.in/jsf-dropdown-list-example/)
 - [Read Form Data using Managed Bean in JSF with Example](https://bushansirgur.in/read-form-data-using-managed-bean-in-jsf-with-example/)
-- [JavaServer Faces (JSF) Create Login Page](https://bushansirgur.in/javaserver-faces-jsf-create-login-page/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

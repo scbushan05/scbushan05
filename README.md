@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pre-populating the form values in JSF with Example](https://bushansirgur.in/pre-populating-the-form-values-in-jsf-with-example/)
 - [JSF Checkbox Options from Managed Bean](https://bushansirgur.in/jsf-checkbox-options-from-managed-bean/)
 - [JSF Checkbox Example](https://bushansirgur.in/jsf-checkbox-example/)
 - [JSF Radio Button Options from Managed Bean](https://bushansirgur.in/jsf-radio-button-options-from-managed-bean/)
 - [JSF Radio Button Example](https://bushansirgur.in/jsf-radio-button-example/)
-- [JSF Dropdown List from Managed Bean](https://bushansirgur.in/jsf-dropdown-list-from-managed-bean/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

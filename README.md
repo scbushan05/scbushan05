@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [JSF Custom Validator with Example](https://bushansirgur.in/jsf-custom-validator-with-example/)
 - [JSF RegEx Validator Example](https://bushansirgur.in/jsf-regex-validator-example/)
 - [JSF Validation Message Example](https://bushansirgur.in/jsf-validation-message-example/)
 - [Pre-populating the form values in JSF with Example](https://bushansirgur.in/pre-populating-the-form-values-in-jsf-with-example/)
 - [JSF Checkbox Options from Managed Bean](https://bushansirgur.in/jsf-checkbox-options-from-managed-bean/)
-- [JSF Checkbox Example](https://bushansirgur.in/jsf-checkbox-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [JSF Datatable Example Arraylist with Example](https://bushansirgur.in/jsf-datatable-example-arraylist-with-example/)
 - [JSF Display List of Objects from Managed Bean](https://bushansirgur.in/jsf-display-list-of-objects-from-managed-bean/)
 - [Spring Boot JDBCTemplate Select Query Example](https://bushansirgur.in/spring-boot-jdbctemplate-select-query-example/)
 - [JSF Custom Validator with Example](https://bushansirgur.in/jsf-custom-validator-with-example/)
 - [JSF RegEx Validator Example](https://bushansirgur.in/jsf-regex-validator-example/)
-- [JSF Validation Message Example](https://bushansirgur.in/jsf-validation-message-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [My First Vlog | Minimalist Desk Setup Tour](https://www.youtube.com/watch?v=x_SFslEFA8k)
 - [I wrote 30+ blog posts in last 30days](https://www.youtube.com/watch?v=M_TcCIJBWeU)
 - [GraphQL and Spring Boot Tutorial - 07 Pass JSON data to the GraphQL query](https://www.youtube.com/watch?v=ixwQjhnKCNM)
 - [GraphQL and Spring Boot Tutorial - 06 Pass input data to the GraphQL query](https://www.youtube.com/watch?v=nSUiTtNQjGY)
 - [GraphQL and Spring Boot Tutorial - 05 Test GraphQL Queries with Altair plugin](https://www.youtube.com/watch?v=JiVhKPmJdII)
-- [GraphQL and Spring Boot Tutorial - 04 Create a schema and Test the query](https://www.youtube.com/watch?v=M9N0FdUWUMk)
 <!-- YOUTUBE:END -->
 
 ---

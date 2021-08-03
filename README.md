@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Spring Boot and Spring JDBC Crash Course - 02 Overview of Spring JDBC](https://www.youtube.com/watch?v=Z1wxvTRICG0)
-- [Spring Boot and Spring JDBC Crash Course - 01 Course Overview](https://www.youtube.com/watch?v=jfe9QspznjU)
 - [My First Vlog | Minimalist Desk Setup Tour](https://www.youtube.com/watch?v=x_SFslEFA8k)
 - [I wrote 30+ blog posts in last 30days](https://www.youtube.com/watch?v=M_TcCIJBWeU)
 - [GraphQL and Spring Boot Tutorial - 07 Pass JSON data to the GraphQL query](https://www.youtube.com/watch?v=ixwQjhnKCNM)
+- [GraphQL and Spring Boot Tutorial - 06 Pass input data to the GraphQL query](https://www.youtube.com/watch?v=nSUiTtNQjGY)
+- [GraphQL and Spring Boot Tutorial - 05 Test GraphQL Queries with Altair plugin](https://www.youtube.com/watch?v=JiVhKPmJdII)
 <!-- YOUTUBE:END -->
 
 ---

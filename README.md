@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring JdbcTemplate queryForObject() with Example](https://bushansirgur.in/spring-jdbctemplate-queryforobject-with-example/)
 - [JSF Get Data From Database](https://bushansirgur.in/jsf-get-data-from-database/)
 - [Connection Pool in JSF with @Resource Injection](https://bushansirgur.in/connection-pool-in-jsf-with-resource-injection/)
 - [JSF Stylesheet Example](https://bushansirgur.in/jsf-stylesheet-example/)
 - [JSF Datatable Example with Arraylist](https://bushansirgur.in/jsf-datatable-example-arraylist-with-example/)
-- [JSF Display List of Objects from Managed Bean](https://bushansirgur.in/jsf-display-list-of-objects-from-managed-bean/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

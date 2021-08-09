@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Security method level annotation @PreAuthorize Example](https://bushansirgur.in/spring-security-method-level-annotation-preauthorize-example/)
 - [Spring Boot JdbcTemplate CRUD Operations MySQL](https://bushansirgur.in/spring-boot-jdbctemplate-crud-operations-mysql/)
 - [Spring JdbcTemplate Update Example](https://bushansirgur.in/spring-jdbctemplate-update-example/)
 - [Spring JdbcTemplate Save Object](https://bushansirgur.in/spring-jdbctemplate-save-object/)
 - [Spring JdbcTemplate Delete Example](https://bushansirgur.in/spring-jdbctemplate-delete-example/)
-- [Spring JdbcTemplate queryForObject() with Example](https://bushansirgur.in/spring-jdbctemplate-queryforobject-with-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Security JWT Token Based Authentication Example](https://bushansirgur.in/spring-boot-security-jwt-token-based-authentication-example/)
 - [Spring Security method level annotation @PreAuthorize Example](https://bushansirgur.in/spring-security-method-level-annotation-preauthorize-example/)
 - [Spring Boot JdbcTemplate CRUD Operations MySQL](https://bushansirgur.in/spring-boot-jdbctemplate-crud-operations-mysql/)
 - [Spring JdbcTemplate Update Example](https://bushansirgur.in/spring-jdbctemplate-update-example/)
 - [Spring JdbcTemplate Save Object](https://bushansirgur.in/spring-jdbctemplate-save-object/)
-- [Spring JdbcTemplate Delete Example](https://bushansirgur.in/spring-jdbctemplate-delete-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

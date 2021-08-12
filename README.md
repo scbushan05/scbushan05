@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [JSF Delete Data from Database Table](https://bushansirgur.in/jsf-delete-data-from-database-table/)
 - [JSF Insert Data into Database with MySQL](https://bushansirgur.in/jsf-insert-data-into-database-with-mysql/)
 - [Spring Boot Security JWT Token Based Authentication Example](https://bushansirgur.in/spring-boot-security-jwt-token-based-authentication-example/)
 - [Spring Security method level annotation @PreAuthorize Example](https://bushansirgur.in/spring-security-method-level-annotation-preauthorize-example/)
 - [Spring Boot JdbcTemplate CRUD Operations MySQL](https://bushansirgur.in/spring-boot-jdbctemplate-crud-operations-mysql/)
-- [Spring JdbcTemplate Update Example](https://bushansirgur.in/spring-jdbctemplate-update-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

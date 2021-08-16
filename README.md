@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Javascript forEach Loop through Array of Objects](https://bushansirgur.in/javascript-foreach-loop-through-array-of-objects/)
 - [Spring Boot Upload File to AWS S3](https://bushansirgur.in/spring-boot-upload-file-to-aws-s3/)
 - [Spring Boot Thymeleaf Display List of Records from Database](https://bushansirgur.in/spring-boot-thymeleaf-display-list-of-records-from-database/)
 - [JSF Delete Data from Database Table](https://bushansirgur.in/jsf-delete-data-from-database-table/)
 - [JSF Insert Data into Database with MySQL](https://bushansirgur.in/jsf-insert-data-into-database-with-mysql/)
-- [Spring Boot Security JWT Token Based Authentication Example](https://bushansirgur.in/spring-boot-security-jwt-token-based-authentication-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

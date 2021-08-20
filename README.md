@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Javascript divide array into chunks](https://bushansirgur.in/javascript-divide-array-into-chunks/)
 - [Javascript map array of objects to another array of objects](https://bushansirgur.in/javascript-map-array-of-objects-to-another-array-of-objects/)
 - [Javascript forEach Loop through Array of Objects](https://bushansirgur.in/javascript-foreach-loop-through-array-of-objects/)
 - [Spring Boot Upload File to AWS S3](https://bushansirgur.in/spring-boot-upload-file-to-aws-s3/)
 - [Spring Boot Thymeleaf Display List of Records from Database](https://bushansirgur.in/spring-boot-thymeleaf-display-list-of-records-from-database/)
-- [JSF Delete Data from Database Table](https://bushansirgur.in/jsf-delete-data-from-database-table/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring boot thymeleaf jQuery Datatable](https://bushansirgur.in/spring-boot-thymeleaf-jquery-datatable/)
 - [Spring boot thymeleaf Delete record from Database](https://bushansirgur.in/spring-boot-thymeleaf-delete-record-from-database/)
 - [Spring Boot thymeleaf Update form](https://bushansirgur.in/spring-boot-thymeleaf-update-form/)
 - [Spring Boot thymeleaf form Submit Example](https://bushansirgur.in/spring-boot-thymeleaf-form-submit-example/)
 - [Javascript divide array into chunks](https://bushansirgur.in/javascript-divide-array-into-chunks/)
-- [Javascript map array of objects to another array of objects](https://bushansirgur.in/javascript-map-array-of-objects-to-another-array-of-objects/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

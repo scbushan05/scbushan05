@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Starters and Dependencies List](https://bushansirgur.in/spring-boot-starters-and-dependencies-list/)
 - [How to Create simple JUnit test case in Eclipse](https://bushansirgur.in/how-to-create-simple-junit-test-case-in-eclipse/)
 - [Spring boot thymeleaf jQuery Datatable](https://bushansirgur.in/spring-boot-thymeleaf-jquery-datatable/)
 - [Spring boot thymeleaf Delete record from Database](https://bushansirgur.in/spring-boot-thymeleaf-delete-record-from-database/)
 - [Spring Boot thymeleaf Update form](https://bushansirgur.in/spring-boot-thymeleaf-update-form/)
-- [Spring Boot thymeleaf form Submit Example](https://bushansirgur.in/spring-boot-thymeleaf-form-submit-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Spring Boot, Thymeleaf and MySQL Crash Course [2021]](https://www.youtube.com/watch?v=nP7O26fFkjI)
 - [Upload File to AWS S3 Bucket in Spring Boot [Crash course]](https://www.youtube.com/watch?v=c3POiw8rHoQ)
 - [Udemy's Biggest Sale   Courses @ just 385](https://www.youtube.com/watch?v=bc4AoPvK2Cs)
 - [Spring Boot and Spring JDBC REST API Crash Course [2021]](https://www.youtube.com/watch?v=vovvcvcUkVI)
 - [My First Vlog | Minimalist Desk Setup Tour](https://www.youtube.com/watch?v=x_SFslEFA8k)
-- [I wrote 30+ blog posts in last 30days](https://www.youtube.com/watch?v=M_TcCIJBWeU)
 <!-- YOUTUBE:END -->
 
 ---

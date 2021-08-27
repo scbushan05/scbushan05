@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Difference between println() and print() in Java](https://bushansirgur.in/difference-between-println-and-print-in-java/)
 - [Run Java Program from Command line](https://bushansirgur.in/run-java-program-from-command-line/)
 - [@SpringBootApplication annotation in Spring Boot](https://bushansirgur.in/springbootapplication-annotation-in-spring-boot/)
 - [Spring Boot Starters and Dependencies List](https://bushansirgur.in/spring-boot-starters-and-dependencies-list/)
 - [How to Create simple JUnit test case in Eclipse](https://bushansirgur.in/how-to-create-simple-junit-test-case-in-eclipse/)
-- [Spring boot thymeleaf jQuery Datatable](https://bushansirgur.in/spring-boot-thymeleaf-jquery-datatable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [React and Spring Boot Integration](https://bushansirgur.in/react-and-spring-boot-integration/)
 - [Create Express Server in NodeJS](https://bushansirgur.in/create-express-server-in-nodejs/)
 - [Difference between println() and print() in Java](https://bushansirgur.in/difference-between-println-and-print-in-java/)
 - [Run Java Program from Command line](https://bushansirgur.in/run-java-program-from-command-line/)
 - [@SpringBootApplication annotation in Spring Boot](https://bushansirgur.in/springbootapplication-annotation-in-spring-boot/)
-- [Spring Boot Starters and Dependencies List](https://bushansirgur.in/spring-boot-starters-and-dependencies-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

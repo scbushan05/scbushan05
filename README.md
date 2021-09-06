@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Project Structure Best Practices](https://bushansirgur.in/spring-boot-project-structure-best-practices/)
 - [Full Stack Project with React and Spring Boot – Add Bootstrap Styling to React application [Part 3]](https://bushansirgur.in/full-stack-project-with-react-and-spring-boot-add-bootstrap-styling-to-react-application-part-3/)
 - [Full Stack Project with React and Spring Boot – Add React Router [Part 2]](https://bushansirgur.in/full-stack-project-with-react-and-spring-boot-add-react-router-part-2/)
 - [Full stack project with React and Spring Boot – Display the data in HTML table [Part 1]](https://bushansirgur.in/full-stack-project-with-react-and-spring-boot-display-the-data-in-table-part-1/)
 - [React and Spring Boot Integration](https://bushansirgur.in/react-and-spring-boot-integration/)
-- [Create Express Server in NodeJS](https://bushansirgur.in/create-express-server-in-nodejs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Full Stack Project with React and Spring Boot – Add Bootstrap Styling to React application [Part 3]](https://bushansirgur.in/full-stack-project-with-react-and-spring-boot-add-bootstrap-styling-to-react-application-part-3/)
 - [Full Stack Project with React and Spring Boot – Add React Router [Part 2]](https://bushansirgur.in/full-stack-project-with-react-and-spring-boot-add-react-router-part-2/)
 - [Full stack project with React and Spring Boot – Display the data in HTML table [Part 1]](https://bushansirgur.in/full-stack-project-with-react-and-spring-boot-display-the-data-in-table-part-1/)
 - [React and Spring Boot Integration](https://bushansirgur.in/react-and-spring-boot-integration/)
 - [Create Express Server in NodeJS](https://bushansirgur.in/create-express-server-in-nodejs/)
-- [Difference between println() and print() in Java](https://bushansirgur.in/difference-between-println-and-print-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

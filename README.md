@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Full Stack Project with React and Spring Boot – Save the data to database [Part 4]](https://bushansirgur.in/full-stack-project-with-react-and-spring-boot-save-the-data-to-database-part-4/)
 - [Java Comments Best Practices Example](https://bushansirgur.in/java-comments-best-practices-example/)
 - [Println vs Printf vs Print in Go](https://bushansirgur.in/println-vs-printf-vs-print-in-go/)
 - [How to Print Hello World in Go Language](https://bushansirgur.in/how-to-print-hello-world-in-go-language/)
 - [Spring Boot Project Structure Best Practices](https://bushansirgur.in/spring-boot-project-structure-best-practices/)
-- [Full Stack Project with React and Spring Boot – Add Bootstrap Styling to React application [Part 3]](https://bushansirgur.in/full-stack-project-with-react-and-spring-boot-add-bootstrap-styling-to-react-application-part-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

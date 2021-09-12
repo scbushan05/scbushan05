@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple HTML and CSS Sign Up Form](https://bushansirgur.in/simple-html-and-css-sign-up-form/)
 - [React (React hooks), Spring Boot and Postgresql CRUD Tutorial](https://bushansirgur.in/react-react-hooks-spring-boot-and-postgresql-crud-tutorial/)
 - [Reactjs + Spring Boot CRUD Full Stack Application – Create React Application](https://bushansirgur.in/reactjs-spring-boot-crud-full-stack-application-create-react-application/)
 - [Reactjs + Spring Boot CRUD Full Stack Application – Spring Boot Backend](https://bushansirgur.in/reactjs-spring-boot-crud-full-stack-application-spring-boot-backend/)
 - [Full Stack Project with React and Spring Boot – Delete the record from database [Part 6]](https://bushansirgur.in/full-stack-project-with-react-and-spring-boot-delete-the-record-from-database-part-6/)
-- [Full Stack Project with React and Spring Boot – Update the record to database [Part 5]](https://bushansirgur.in/full-stack-project-with-react-and-spring-boot-update-the-record-to-database-part-5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

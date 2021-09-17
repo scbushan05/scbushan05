@@ -66,10 +66,10 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [React (React Hooks) and Spring Boot - Full stack CRUD application with MySQL database](https://www.youtube.com/watch?v=KDHuVnsJl9U)
+- [Spring Boot React (React Hooks) CRUD Full Stack Application | Full Course [2021 Edition]](https://www.youtube.com/watch?v=KDHuVnsJl9U)
 - [Learn to build REST API with Spring Boot and JPA - Full course (2021 Edition)](https://www.youtube.com/watch?v=99mxjnzR3Tc)
 - [Create Express Server in Nodejs](https://www.youtube.com/watch?v=-Sf_FcKyC9s)
-- [Spring Boot, Thymeleaf and MySQL Crash Course [2021]](https://www.youtube.com/watch?v=nP7O26fFkjI)
+- [Spring Boot Thymeleaf Tutorial | Full Course [2021 Edition]](https://www.youtube.com/watch?v=nP7O26fFkjI)
 - [Upload File to AWS S3 Bucket in Spring Boot [Crash course]](https://www.youtube.com/watch?v=c3POiw8rHoQ)
 <!-- YOUTUBE:END -->
 

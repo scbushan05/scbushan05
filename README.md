@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fibonacci series program in Golang](https://bushansirgur.in/fibonacci-series-program-in-golang/)
 - [Functions in Go Language](https://bushansirgur.in/functions-in-go-language/)
 - [Simple HTML and CSS Sign Up Form](https://bushansirgur.in/simple-html-and-css-sign-up-form/)
 - [React (React hooks), Spring Boot and Postgresql CRUD Tutorial](https://bushansirgur.in/react-react-hooks-spring-boot-and-postgresql-crud-tutorial/)
 - [Reactjs + Spring Boot CRUD Full Stack Application – Create React Application](https://bushansirgur.in/reactjs-spring-boot-crud-full-stack-application-create-react-application/)
-- [Reactjs + Spring Boot CRUD Full Stack Application – Spring Boot Backend](https://bushansirgur.in/reactjs-spring-boot-crud-full-stack-application-spring-boot-backend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

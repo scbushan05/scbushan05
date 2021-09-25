@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Spring Security Tutorial - Part 1 - Default Configuration](https://www.youtube.com/watch?v=z9WdDxeydJs)
 - [Full Stack Application - Angular and Spring Boot | Full course [2021 Edition]](https://www.youtube.com/watch?v=G3IyZvR2VW0)
 - [Spring Boot and MongoDB REST API Tutorial (Deployed to Heroku) | Full Course [2021 Edition]](https://www.youtube.com/watch?v=i0V3WzYW4II)
 - [Spring Boot React (React Hooks) CRUD Full Stack Application | Full Course [2021 Edition]](https://www.youtube.com/watch?v=KDHuVnsJl9U)
 - [Learn to build REST API with Spring Boot and JPA - Full course (2021 Edition)](https://www.youtube.com/watch?v=99mxjnzR3Tc)
-- [Create Express Server in Nodejs](https://www.youtube.com/watch?v=-Sf_FcKyC9s)
 <!-- YOUTUBE:END -->
 
 ---

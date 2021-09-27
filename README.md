@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Merge Sort Java Program Logic](https://bushansirgur.in/merge-sort-java-program-logic/)
 - [Insertion Sort Java Program Logic](https://bushansirgur.in/insertion-sort-java-program-logic/)
 - [Bubble Sort Java Program Logic](https://bushansirgur.in/bubble-sort-java-program-logic/)
 - [Data types in Golang](https://bushansirgur.in/data-types-in-golang/)
 - [Math functions in Golang](https://bushansirgur.in/math-functions-in-golang/)
-- [Fibonacci series program in Golang](https://bushansirgur.in/fibonacci-series-program-in-golang/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

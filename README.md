@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Quick Sort Java Program Logic](https://bushansirgur.in/quick-sort-java-program-logic/)
+- [Radix Sort Java Program Logic](https://bushansirgur.in/radix-sort-java-program-logic/)
 - [Merge Sort Java Program Logic](https://bushansirgur.in/merge-sort-java-program-logic/)
 - [Insertion Sort Java Program Logic](https://bushansirgur.in/insertion-sort-java-program-logic/)
 - [Bubble Sort Java Program Logic](https://bushansirgur.in/bubble-sort-java-program-logic/)
-- [Data types in Golang](https://bushansirgur.in/data-types-in-golang/)
-- [Math functions in Golang](https://bushansirgur.in/math-functions-in-golang/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

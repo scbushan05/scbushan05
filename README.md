@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Heap Sort Java Program Logic](https://bushansirgur.in/heap-sort-java-program-logic/)
 - [Selection Sort Java Program Logic](https://bushansirgur.in/selection-sort-java-program-logic/)
 - [Quick Sort Java Program Logic](https://bushansirgur.in/quick-sort-java-program-logic/)
 - [Radix Sort Java Program Logic](https://bushansirgur.in/radix-sort-java-program-logic/)
 - [Merge Sort Java Program Logic](https://bushansirgur.in/merge-sort-java-program-logic/)
-- [Insertion Sort Java Program Logic](https://bushansirgur.in/insertion-sort-java-program-logic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

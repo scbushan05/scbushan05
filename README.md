@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Spring Boot and Hibernate REST API Tutorial with MySQL Database | Full Course [2021 Edition]](https://www.youtube.com/watch?v=1O-e7FYB7wU)
 - [Spring and Spring Boot annotations | Full course [2021]](https://www.youtube.com/watch?v=o6-gRZfQqOE)
 - [Spring Security Tutorial - Part 1 - Default Configuration](https://www.youtube.com/watch?v=z9WdDxeydJs)
 - [Full Stack Application - Angular and Spring Boot | Full course [2021 Edition]](https://www.youtube.com/watch?v=G3IyZvR2VW0)
 - [Spring Boot and MongoDB REST API Tutorial (Deployed to Heroku) | Full Course [2021 Edition]](https://www.youtube.com/watch?v=i0V3WzYW4II)
-- [Spring Boot React (React Hooks) CRUD Full Stack Application | Full Course [2021 Edition]](https://www.youtube.com/watch?v=KDHuVnsJl9U)
 <!-- YOUTUBE:END -->
 
 ---

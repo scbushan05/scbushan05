@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [JSP Declaration Tag Example](https://bushansirgur.in/jsp-declaration-tag-example/)
+- [JSP Scriptlet Expression Tag](https://bushansirgur.in/jsp-scriptlet-expression-tag/)
 - [JSP Expression Language Syntax](https://bushansirgur.in/jsp-expression-language-syntax/)
 - [Display Hello World in JSP](https://bushansirgur.in/display-hello-world-in-jsp/)
 - [Read properties file in Java Project](https://bushansirgur.in/read-properties-file-in-java-project/)
-- [Java Keywords with Examples](https://bushansirgur.in/java-keywords-with-examples/)
-- [Counting Sort Java Program Logic](https://bushansirgur.in/counting-sort-java-program-logic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

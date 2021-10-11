@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [JSP Built in Objects with Examples](https://bushansirgur.in/jsp-built-in-objects-with-examples/)
 - [Call Java method from JSP Example](https://bushansirgur.in/call-java-method-from-jsp-example/)
 - [JSP Declaration Tag Example](https://bushansirgur.in/jsp-declaration-tag-example/)
 - [JSP Scriptlet Expression Tag](https://bushansirgur.in/jsp-scriptlet-expression-tag/)
 - [JSP Expression Language Syntax](https://bushansirgur.in/jsp-expression-language-syntax/)
-- [Display Hello World in JSP](https://bushansirgur.in/display-hello-world-in-jsp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

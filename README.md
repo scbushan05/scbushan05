@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Run Spring Boot Application Command Line Maven](https://bushansirgur.in/run-spring-boot-application-command-line-maven/)
 - [Spring Boot Project Structure Explained](https://bushansirgur.in/spring-boot-project-structure-explained/)
 - [How to include one JSP in another JSP Example](https://bushansirgur.in/how-to-include-one-jsp-in-another-jsp-example/)
 - [JSP Built in Objects with Examples](https://bushansirgur.in/jsp-built-in-objects-with-examples/)
 - [Call Java method from JSP Example](https://bushansirgur.in/call-java-method-from-jsp-example/)
-- [JSP Declaration Tag Example](https://bushansirgur.in/jsp-declaration-tag-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

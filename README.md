@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Radio Button in JSP Page Example](https://bushansirgur.in/radio-button-in-jsp-page-example/)
 - [How to get selected value from Dropdown in JSP](https://bushansirgur.in/how-to-get-selected-value-from-dropdown-in-jsp/)
 - [How to get form values in JSP](https://bushansirgur.in/how-to-get-form-values-in-jsp/)
 - [Run Spring Boot Application Command Line Maven](https://bushansirgur.in/run-spring-boot-application-command-line-maven/)
 - [Spring Boot Project Structure Explained](https://bushansirgur.in/spring-boot-project-structure-explained/)
-- [How to include one JSP in another JSP Example](https://bushansirgur.in/how-to-include-one-jsp-in-another-jsp-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

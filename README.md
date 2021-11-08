@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create React App (create-react-app) npm command](https://bushansirgur.in/create-react-app-create-react-app-npm-command/)
 - [Create React app with CDN](https://bushansirgur.in/create-react-app-with-cdn/)
 - [JSP Session Attribute Example](https://bushansirgur.in/jsp-session-attribute-example/)
 - [How to Read checkbox value in JSP](https://bushansirgur.in/how-to-read-checkbox-value-in-jsp/)
 - [Radio Button in JSP Page Example](https://bushansirgur.in/radio-button-in-jsp-page-example/)
-- [How to get selected value from Dropdown in JSP](https://bushansirgur.in/how-to-get-selected-value-from-dropdown-in-jsp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

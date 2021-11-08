@@ -55,7 +55,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Create React App (create-react-app) npm command](https://bushansirgur.in/create-react-app-create-react-app-npm-command/)
+- [Create React App &lpar;create-react-app&rpar; npm command](https://bushansirgur.in/create-react-app-create-react-app-npm-command/)
 - [Create React app with CDN](https://bushansirgur.in/create-react-app-with-cdn/)
 - [JSP Session Attribute Example](https://bushansirgur.in/jsp-session-attribute-example/)
 - [How to Read checkbox value in JSP](https://bushansirgur.in/how-to-read-checkbox-value-in-jsp/)

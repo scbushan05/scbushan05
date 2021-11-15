@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring MVC Example using JSP](https://bushansirgur.in/spring-mvc-example-using-jsp/)
 - [Spring MVC XML Configuration Example](https://bushansirgur.in/spring-mvc-xml-configuration-example/)
 - [Spring MVC Architecture diagram with Explanation](https://bushansirgur.in/spring-mvc-architecture-diagram-with-explanation/)
 - [Understand the React Project Structure](https://bushansirgur.in/understand-the-react-project-structure/)
 - [Create React App &lpar;create-react-app&rpar; npm command](https://bushansirgur.in/create-react-app-create-react-app-npm-command/)
-- [Create React app with CDN](https://bushansirgur.in/create-react-app-with-cdn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

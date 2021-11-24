@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring MVC Form Tags](https://bushansirgur.in/spring-mvc-form-tags/)
 - [Spring MVC Configuration using Java](https://bushansirgur.in/spring-mvc-configuration-using-java/)
 - [Spring MVC RequestParam Example](https://bushansirgur.in/spring-mvc-requestparam-example/)
 - [Spring MVC Pass data from Controller to View](https://bushansirgur.in/spring-mvc-pass-data-from-controller-to-view/)
 - [Spring MVC Read URL parameters](https://bushansirgur.in/spring-mvc-read-url-parameters/)
-- [Spring MVC Example using JSP](https://bushansirgur.in/spring-mvc-example-using-jsp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

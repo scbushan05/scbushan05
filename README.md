@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring MVC Dynamic Dropdown List](https://bushansirgur.in/spring-mvc-dynamic-dropdown-list/)
 - [Spring MVC JSP Dropdown Example](https://bushansirgur.in/spring-mvc-jsp-dropdown-example/)
 - [Spring MVC Textbox Example](https://bushansirgur.in/spring-mvc-textbox-example/)
 - [Spring MVC Form Tags](https://bushansirgur.in/spring-mvc-form-tags/)
 - [Spring MVC Configuration using Java](https://bushansirgur.in/spring-mvc-configuration-using-java/)
-- [Spring MVC RequestParam Example](https://bushansirgur.in/spring-mvc-requestparam-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring MVC Radio button Example](https://bushansirgur.in/spring-mvc-radio-button-example/)
 - [Spring MVC dropdown options load from properties file](https://bushansirgur.in/spring-mvc-dropdown-options-load-from-properties-file/)
 - [Spring MVC Dynamic Dropdown List](https://bushansirgur.in/spring-mvc-dynamic-dropdown-list/)
 - [Spring MVC JSP Dropdown Example](https://bushansirgur.in/spring-mvc-jsp-dropdown-example/)
 - [Spring MVC Textbox Example](https://bushansirgur.in/spring-mvc-textbox-example/)
-- [Spring MVC Form Tags](https://bushansirgur.in/spring-mvc-form-tags/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

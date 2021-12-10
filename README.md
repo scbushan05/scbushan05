@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring MVC Multiple Checkbox Example](https://bushansirgur.in/spring-mvc-multiple-checkbox-example/)
 - [Spring MVC Populate Radio button values from Java model class](https://bushansirgur.in/spring-mvc-populate-radio-button-values-from-java-model-class/)
 - [Spring MVC Radio button Example](https://bushansirgur.in/spring-mvc-radio-button-example/)
 - [Spring MVC dropdown options load from properties file](https://bushansirgur.in/spring-mvc-dropdown-options-load-from-properties-file/)
 - [Spring MVC Dynamic Dropdown List](https://bushansirgur.in/spring-mvc-dynamic-dropdown-list/)
-- [Spring MVC JSP Dropdown Example](https://bushansirgur.in/spring-mvc-jsp-dropdown-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

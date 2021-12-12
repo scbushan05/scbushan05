@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Difference between class and object in Java with Example](https://bushansirgur.in/difference-between-class-and-object-in-java-with-example/)
+- [Difference between Aggregation and Composition in Java with Example](https://bushansirgur.in/difference-between-aggregation-and-composition-in-java-with-example/)
+- [Difference between Java constructor and Java method](https://bushansirgur.in/difference-between-java-constructor-and-java-method/)
 - [Spring MVC Read checkbox values from Java model](https://bushansirgur.in/spring-mvc-read-checkbox-values-from-java-model/)
 - [Spring MVC Multiple Checkbox Example](https://bushansirgur.in/spring-mvc-multiple-checkbox-example/)
-- [Spring MVC Populate Radio button values from Java model class](https://bushansirgur.in/spring-mvc-populate-radio-button-values-from-java-model-class/)
-- [Spring MVC Radio button Example](https://bushansirgur.in/spring-mvc-radio-button-example/)
-- [Spring MVC dropdown options load from properties file](https://bushansirgur.in/spring-mvc-dropdown-options-load-from-properties-file/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

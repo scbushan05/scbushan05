@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Java 8 Default Method in Interface](https://bushansirgur.in/java-8-default-method-in-interface/)
+- [Java Object class methods List](https://bushansirgur.in/java-object-class-methods-list/)
 - [Difference between Abstraction and Encapsulation Java](https://bushansirgur.in/difference-between-abstraction-and-encapsulation-java/)
 - [Difference between Method overloading and Method overriding in Java](https://bushansirgur.in/difference-between-method-overloading-and-method-overriding-in-java/)
 - [Difference between class and object in Java with Example](https://bushansirgur.in/difference-between-class-and-object-in-java-with-example/)
-- [Difference between Aggregation and Composition in Java with Example](https://bushansirgur.in/difference-between-aggregation-and-composition-in-java-with-example/)
-- [Difference between Java constructor and Java method](https://bushansirgur.in/difference-between-java-constructor-and-java-method/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

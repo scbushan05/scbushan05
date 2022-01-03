@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Java 8 DateTime API Example](https://bushansirgur.in/java-8-datetime-api-example/)
 - [Java Convert String to Datetime using SimpleDateFormat](https://bushansirgur.in/java-convert-string-to-datetime-using-simpledateformat/)
 - [Java Convert Date to String format dd/mm/yyyy](https://bushansirgur.in/java-convert-date-to-string-format-dd-mm-yyyy/)
 - [Java Convert Date to String format](https://bushansirgur.in/java-convert-date-to-string-format/)
 - [Java 8 Default Method in Interface](https://bushansirgur.in/java-8-default-method-in-interface/)
-- [Java Object class methods List](https://bushansirgur.in/java-object-class-methods-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

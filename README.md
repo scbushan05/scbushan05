@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Convert Date to String format dd/mm/yyyy](https://bushansirgur.in/java-convert-date-to-string-format-dd-mm-yyyy/)
+- [Java Convert Date to String format](https://bushansirgur.in/java-convert-date-to-string-format/)
 - [Java 8 Default Method in Interface](https://bushansirgur.in/java-8-default-method-in-interface/)
 - [Java Object class methods List](https://bushansirgur.in/java-object-class-methods-list/)
 - [Difference between Abstraction and Encapsulation Java](https://bushansirgur.in/difference-between-abstraction-and-encapsulation-java/)
-- [Difference between Method overloading and Method overriding in Java](https://bushansirgur.in/difference-between-method-overloading-and-method-overriding-in-java/)
-- [Difference between class and object in Java with Example](https://bushansirgur.in/difference-between-class-and-object-in-java-with-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

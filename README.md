@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Spring Security Tutorial - Part 6 - Create custom User details service &amp; validate user with mysql db](https://www.youtube.com/watch?v=JpB__VoQQrw)
 - [Spring Security Tutorial - Part 5 - Configure multiple users using InMemoryUserDetailsManager](https://www.youtube.com/watch?v=6peNRJxLcw0)
 - [Spring Security Tutorial - Part 4 - Configure multiple users using InMemoryAuthentication](https://www.youtube.com/watch?v=S7t-Un4GR-g)
 - [Spring Security Tutorial - Part 3 - Deny all the HTTP Requests](https://www.youtube.com/watch?v=wah5GbbMfxw)
 - [Spring Security Tutorial - Part 2 - Customize Spring Security for HTTP requests](https://www.youtube.com/watch?v=VPNZece9nJ8)
-- [Full Stack Development with Spring MVC and MyBatis | Full Course | 2021](https://www.youtube.com/watch?v=mpkznv3WGek)
 <!-- YOUTUBE:END -->
 
 ---

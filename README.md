@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Spring Security Tutorial - Part 9 - Create a Custom Authentication Provider](https://www.youtube.com/watch?v=dDxHIBPzaQ4)
 - [Project Demo - Build Production Ready REST API in Spring Boot and JPA - Expense Manager API🔥](https://www.youtube.com/watch?v=lCVAOCxrnss)
 - [Udemy New Course - Build Production Ready REST API in Spring Boot and JPA - Expense Manager API🔥](https://www.youtube.com/watch?v=UnHftQ74LNg)
 - [Spring Security Tutorial - Part 8 - Create a REST end point for Login API](https://www.youtube.com/watch?v=J4VMtHGrf5Q)
 - [Spring Security Tutorial - Part 7 - Encode the password using BCryptPasswordEncoder technique](https://www.youtube.com/watch?v=JD2yw7h4RN8)
-- [Spring Security Tutorial - Part 6 - Create custom User details service &amp; validate user with mysql db](https://www.youtube.com/watch?v=JpB__VoQQrw)
 <!-- YOUTUBE:END -->
 
 ---

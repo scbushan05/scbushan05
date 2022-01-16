@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Data JPA exists by field with Example](https://bushansirgur.in/spring-data-jpa-exists-by-field-with-example/)
 - [Spring Boot DTO to Entity mapping](https://bushansirgur.in/spring-boot-dto-to-entity-mapping/)
 - [Spring Boot Map One Object to Another](https://bushansirgur.in/spring-boot-map-one-object-to-another/)
 - [Java 8 DateTime API Example](https://bushansirgur.in/java-8-datetime-api-example/)
 - [Java Convert String to Datetime using SimpleDateFormat](https://bushansirgur.in/java-convert-string-to-datetime-using-simpledateformat/)
-- [Java Convert Date to String format dd/mm/yyyy](https://bushansirgur.in/java-convert-date-to-string-format-dd-mm-yyyy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -55,7 +55,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Spring Data JPA JPQL Query – Distinct](https://bushansirgur.in/spring-data-jpa-jpql-query-distinct/)
+- [JPQL Query using Distinct condition](https://bushansirgur.in/spring-data-jpa-jpql-query-distinct/)
 - [Spring Security Login REST API with MySQL Database](https://bushansirgur.in/spring-security-login-rest-api-with-mysql-database/)
 - [Spring Data JPA exists by field with Example](https://bushansirgur.in/spring-data-jpa-exists-by-field-with-example/)
 - [Spring Boot DTO to Entity mapping](https://bushansirgur.in/spring-boot-dto-to-entity-mapping/)

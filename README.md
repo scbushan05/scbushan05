@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Spring Security Tutorial - Part 11 - Configure User Roles](https://www.youtube.com/watch?v=kSHfBuStFBI)
 - [Spring Security Tutorial - Part 10 - Configure Authorities](https://www.youtube.com/watch?v=0hTZ4zNLOsg)
 - [Spring Data JPA Query Method - existsBy keyword](https://www.youtube.com/watch?v=-UMwSRTlbeo)
 - [Understanding REST API - Build Production Ready REST API in Spring Boot &amp; JPA - Expense Manager API](https://www.youtube.com/watch?v=p08g4R31kYY)
 - [Spring Security Tutorial - Part 9 - Create a Custom Authentication Provider](https://www.youtube.com/watch?v=dDxHIBPzaQ4)
-- [Project Demo - Build Production Ready REST API in Spring Boot and JPA - Expense Manager API🔥](https://www.youtube.com/watch?v=lCVAOCxrnss)
 <!-- YOUTUBE:END -->
 
 ---

@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [JPQL query using LessThanEqual condition](https://bushansirgur.in/jpql-query-using-lessthanequal-condition/)
 - [JPQL query using LessThan condition](https://bushansirgur.in/jpql-query-using-lessthan-condition/)
 - [JPQL Query using Between condition](https://bushansirgur.in/jpql-query-using-between-condition/)
 - [JPQL Query using Equals condition](https://bushansirgur.in/jpql-query-using-equals-condition/)
 - [JPQL Query using OR condition](https://bushansirgur.in/jpql-query-using-or-condition/)
-- [JPQL Query using AND condition](https://bushansirgur.in/jpql-query-using-and-condition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

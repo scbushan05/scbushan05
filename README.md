@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Write a Program to find the second largest number in array in Java](https://bushansirgur.in/write-a-program-to-find-the-second-largest-number-in-array-in-java/)
 - [JPQL query using Containing condition](https://bushansirgur.in/jpql-query-using-containing-condition/)
 - [JPQL query using Ending With condition](https://bushansirgur.in/jpql-query-using-ending-with-condition/)
 - [JPQL query using Starting With condition](https://bushansirgur.in/jpql-query-using-starting-with-condition/)
 - [JPQL query using Not Like condition](https://bushansirgur.in/jpql-query-using-not-like-condition/)
-- [JPQL query using Like condition](https://bushansirgur.in/jpql-query-using-like-condition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [01 - Find the second largest number in array Java](https://www.youtube.com/watch?v=2X5goO5n96E)
 - [Spring Security Tutorial for Beginners [2022 Edition]](https://www.youtube.com/watch?v=1XnPLWJwiHM)
 - [Spring Security Tutorial - Part 12 - Method Level Security using @PreAuthorize annotation](https://www.youtube.com/watch?v=djGCL0Y1lgE)
 - [Spring Security Tutorial - Part 11 - Configure User Roles](https://www.youtube.com/watch?v=kSHfBuStFBI)
 - [Spring Security Tutorial - Part 10 - Configure Authorities](https://www.youtube.com/watch?v=0hTZ4zNLOsg)
-- [Spring Data JPA Query Method - existsBy keyword](https://www.youtube.com/watch?v=-UMwSRTlbeo)
 <!-- YOUTUBE:END -->
 
 ---

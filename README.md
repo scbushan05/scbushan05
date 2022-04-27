@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [04 - Check the given two strings are Anagrams or not?](https://www.youtube.com/watch?v=l0hjuh4j6Sg)
 - [03 - Check the given two strings are isomorphic or not?](https://www.youtube.com/watch?v=P36GaznSd7c)
 - [02 - Write a program to Reverse String in Java](https://www.youtube.com/watch?v=MCzjwbZAHqw)
 - [01 - Find the second largest number in array Java](https://www.youtube.com/watch?v=2X5goO5n96E)
 - [Spring Security Tutorial for Beginners [2022 Edition]](https://www.youtube.com/watch?v=1XnPLWJwiHM)
-- [Spring Security Tutorial - Part 12 - Method Level Security using @PreAuthorize annotation](https://www.youtube.com/watch?v=djGCL0Y1lgE)
 <!-- YOUTUBE:END -->
 
 ---

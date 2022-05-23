@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Dockerize Spring Boot Application with Maven](https://www.youtube.com/watch?v=Tfe9P_JZRVI)
 - [Push the docker image to the Docker Hub](https://www.youtube.com/watch?v=JhH8ydMCsXI)
 - [Dockerize Java Program - Hello World](https://www.youtube.com/watch?v=kVlhUHqkpSs)
 - [04 - Check the given two strings are Anagrams or not?](https://www.youtube.com/watch?v=l0hjuh4j6Sg)
 - [03 - Check the given two strings are isomorphic or not?](https://www.youtube.com/watch?v=P36GaznSd7c)
-- [02 - Write a program to Reverse String in Java](https://www.youtube.com/watch?v=MCzjwbZAHqw)
 <!-- YOUTUBE:END -->
 
 ---

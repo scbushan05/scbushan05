@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Dockerize Spring Boot Application with MySQL](https://www.youtube.com/watch?v=S2s28PCg4M4)
 - [Dockerize Spring Boot Application with Maven](https://www.youtube.com/watch?v=Tfe9P_JZRVI)
 - [Push the docker image to the Docker Hub](https://www.youtube.com/watch?v=JhH8ydMCsXI)
 - [Dockerize Java Program - Hello World](https://www.youtube.com/watch?v=kVlhUHqkpSs)
 - [04 - Check the given two strings are Anagrams or not?](https://www.youtube.com/watch?v=l0hjuh4j6Sg)
-- [03 - Check the given two strings are isomorphic or not?](https://www.youtube.com/watch?v=P36GaznSd7c)
 <!-- YOUTUBE:END -->
 
 ---

@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [JUnit Display Name Best Practices](https://bushansirgur.in/junit-display-name-best-practices/)
 - [Write First JUnit Test](https://bushansirgur.in/write-first-junit-test/)
 - [Overview of Testing in Java with JUnit](https://bushansirgur.in/overview-of-testing-in-java-with-junit/)
 - [MySQL Docker Image Example](https://bushansirgur.in/mysql-docker-image-example/)
 - [Dockerize Hello World Java Program](https://bushansirgur.in/dockerize-hello-world-java-program/)
-- [Write a Program to find the second largest number in array in Java](https://bushansirgur.in/write-a-program-to-find-the-second-largest-number-in-array-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

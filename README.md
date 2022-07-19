@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Write Unit Test Cases using JUnit 5 - Write Test Case for Sorting - 08](https://www.youtube.com/watch?v=mz-sepG_L-8)
 - [Write Unit Test Cases using JUnit 5 - JUnit @BeforeEach annotation - 07](https://www.youtube.com/watch?v=7N16XaVdXzg)
 - [Write Unit Test Cases using JUnit 5 - JUnit assertEquals&lpar;&rpar; method - 06](https://www.youtube.com/watch?v=_Hq3EtyMzJw)
 - [Write Unit Test Cases using JUnit 5 - JUnit Life cycle methods - 05](https://www.youtube.com/watch?v=r8qnXOFJHaI)
 - [Write Unit Test Cases using JUnit 5 - List of assert Methods - 04](https://www.youtube.com/watch?v=6sHvM5FzyYw)
-- [Write Unit Test Cases using JUnit 5 - Error vs Failure - 03](https://www.youtube.com/watch?v=KoZkwR4pZ54)
 <!-- YOUTUBE:END -->
 
 ---

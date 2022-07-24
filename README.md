@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Full Stack Development with Spring Boot and Thymeleaf](https://www.youtube.com/watch?v=3C4bD93JnWw)
+- [Full Stack Development with Spring Boot and Thymeleaf - Lesson 02](https://www.youtube.com/watch?v=rKyhHRLxI0c)
+- [Full Stack Development with Spring Boot and Thymeleaf - Lesson 01](https://www.youtube.com/watch?v=3C4bD93JnWw)
 - [New Course Alert - Full Stack Development with Spring Boot and Thymeleaf [Link in Description]](https://www.youtube.com/watch?v=gtAYhwDNP8M)
 - [Write Unit Test Cases using JUnit 5 - Write Test Case for Sorting - 08](https://www.youtube.com/watch?v=mz-sepG_L-8)
 - [Write Unit Test Cases using JUnit 5 - JUnit @BeforeEach annotation - 07](https://www.youtube.com/watch?v=7N16XaVdXzg)
-- [Write Unit Test Cases using JUnit 5 - JUnit assertEquals&lpar;&rpar; method - 06](https://www.youtube.com/watch?v=_Hq3EtyMzJw)
 <!-- YOUTUBE:END -->
 
 ---

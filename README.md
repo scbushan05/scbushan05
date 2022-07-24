@@ -56,7 +56,7 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [JUnit 5 assertNotEquals&lpar;&rpar; Example](https://bushansirgur.in/junit-5-assertnotequals-example/)
-- [JUnit 5 AssertEquals&lpar;&rpar; Example](https://bushansirgur.in/junit-5-assertequals-example/)
+- [JUnit 5 assertEquals&lpar;&rpar; Example](https://bushansirgur.in/junit-5-assertequals-example/)
 - [JUnit Display Name Best Practices](https://bushansirgur.in/junit-display-name-best-practices/)
 - [Write First JUnit Test](https://bushansirgur.in/write-first-junit-test/)
 - [Overview of Testing in Java with JUnit](https://bushansirgur.in/overview-of-testing-in-java-with-junit/)

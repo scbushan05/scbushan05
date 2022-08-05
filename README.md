@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Full Stack Development with Spring Boot and Thymeleaf - Lesson 08](https://www.youtube.com/watch?v=SdmCcNP4jzw)
 - [Full Stack Development with Spring Boot and Thymeleaf - Lesson 07](https://www.youtube.com/watch?v=txIWk36WJTo)
 - [Write Unit Test Cases using JUnit 5 - Continue Writing Unit Test Cases - 10](https://www.youtube.com/watch?v=apc9DgqwBco)
 - [Full Stack Development with Spring Boot and Thymeleaf - Lesson 06](https://www.youtube.com/watch?v=BX5xxBvx1cw)
 - [Full Stack Development with Spring Boot and Thymeleaf - Lesson 05](https://www.youtube.com/watch?v=5xcGnBg3NOA)
-- [Full Stack Development with Spring Boot and Thymeleaf - Lesson 04](https://www.youtube.com/watch?v=P8XluyZiiYs)
 <!-- YOUTUBE:END -->
 
 ---

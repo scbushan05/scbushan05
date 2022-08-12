@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Full Stack Development with Spring Boot and Thymeleaf - Lesson 13](https://www.youtube.com/watch?v=pZ4Kh-0jYbg)
 - [Full Stack Development with Spring Boot and Thymeleaf - Lesson 12](https://www.youtube.com/watch?v=sZxDHH5jsYw)
 - [Full Stack Development with Spring Boot and Thymeleaf - Lesson 11](https://www.youtube.com/watch?v=gFH5j0jSE-I)
 - [Full Stack Development with Spring Boot and Thymeleaf - Lesson 10](https://www.youtube.com/watch?v=rovaTE79xj4)
 - [Full Stack Development with Spring Boot and Thymeleaf - Lesson 09](https://www.youtube.com/watch?v=qebKZZ9ly4k)
-- [Full Stack Development with Spring Boot and Thymeleaf - Lesson 08](https://www.youtube.com/watch?v=SdmCcNP4jzw)
 <!-- YOUTUBE:END -->
 
 ---

@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Unit Testing with JUnit Mockito and MockMvc](https://bushansirgur.in/spring-boot-unit-testing-with-junit-mockito-and-mockmvc-2/)
 - [Spring Boot Unit Testing with JUnit Mockito and MockMvc](https://bushansirgur.in/spring-boot-unit-testing-with-junit-mockito-and-mockmvc/)
 - [JUnit5 assertNull&lpar;&rpar; Example](https://bushansirgur.in/junit5-assertnull-example/)
 - [JUnit 5 assertNotEquals&lpar;&rpar; Example](https://bushansirgur.in/junit-5-assertnotequals-example/)
 - [JUnit 5 assertEquals&lpar;&rpar; Example](https://bushansirgur.in/junit-5-assertequals-example/)
-- [JUnit Display Name Best Practices](https://bushansirgur.in/junit-display-name-best-practices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

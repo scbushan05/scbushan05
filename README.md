@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot File Upload and Download with Database](https://bushansirgur.in/spring-boot-file-upload-and-download-with-database/)
 - [Spring Boot Unit Testing with JUnit Mockito and MockMvc](https://bushansirgur.in/spring-boot-unit-testing-with-junit-mockito-and-mockmvc-2/)
 - [Spring Boot Unit Testing with JUnit Mockito and MockMvc](https://bushansirgur.in/spring-boot-unit-testing-with-junit-mockito-and-mockmvc/)
 - [JUnit5 assertNull&lpar;&rpar; Example](https://bushansirgur.in/junit5-assertnull-example/)
 - [JUnit 5 assertNotEquals&lpar;&rpar; Example](https://bushansirgur.in/junit-5-assertnotequals-example/)
-- [JUnit 5 assertEquals&lpar;&rpar; Example](https://bushansirgur.in/junit-5-assertequals-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

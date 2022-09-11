@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Spring Boot Unit Testing with JUnit, Mockito and MockMvc - Part 3](https://www.youtube.com/watch?v=ro66YcE3wIU)
 - [Spring Boot Unit Testing with JUnit, Mockito and MockMvc - Part 2](https://www.youtube.com/watch?v=X5MWOwUCA3A)
 - [Spring Boot Unit Testing with JUnit, Mockito and MockMvc - Part 1](https://www.youtube.com/watch?v=tG-TwkIhjOk)
 - [Full Stack Development with Spring Boot and Thymeleaf - Lesson 19](https://www.youtube.com/watch?v=rhcw4PG5zYM)
 - [Full Stack Development with Spring Boot and Thymeleaf - Lesson 20](https://www.youtube.com/watch?v=mHjYKHFzw0g)
-- [Full Stack Development with Spring Boot and Thymeleaf - Lesson 18](https://www.youtube.com/watch?v=2jGLm6LkJ-w)
 <!-- YOUTUBE:END -->
 
 ---

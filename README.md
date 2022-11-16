@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MongoDB Tutorial For Beginners | Read the documents from MongoDB collection - Part 03](https://www.youtube.com/watch?v=uPUMFMkfL8M)
 - [MongoDB Tutorial For Beginners | Create Mongodb Database, Collection and insert Documents - Part 02](https://www.youtube.com/watch?v=7GNAVgphXOg)
 - [MongoDB Tutorial For Beginners | Introduction to MongoDB - Part 01](https://www.youtube.com/watch?v=3U_taj1E1YY)
 - [Spring Boot Unit Testing and Integration Testing with JUnit, Mockito and MockMvc -  [2022]](https://www.youtube.com/watch?v=pHTr3IMuRh0)
 - [Spring Boot Unit Testing with JUnit, Mockito and MockMvc - Part 4](https://www.youtube.com/watch?v=1d3pbiSEATE)
-- [Spring Boot Unit Testing with JUnit, Mockito and MockMvc - Part 3](https://www.youtube.com/watch?v=ro66YcE3wIU)
 <!-- YOUTUBE:END -->
 
 ---

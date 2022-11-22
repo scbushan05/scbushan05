@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MongoDB Tutorial For Beginners | More about updateOne&lpar;&rpar; method - Part 07](https://www.youtube.com/watch?v=NMc5qXD0ACE)
 - [MongoDB Tutorial For Beginners | Update the document using updateOne&lpar;&rpar; - Part 06](https://www.youtube.com/watch?v=JxeRWxsEjrc)
 - [MongoDB Tutorial For Beginners | Read single document using findOne&lpar;&rpar; - Part 05](https://www.youtube.com/watch?v=L6o31XSc1IY)
 - [MongoDB Tutorial For Beginners | Insert multiple documents using insertMany&lpar;&rpar; - Part 04](https://www.youtube.com/watch?v=o_tnbZ9O_3E)
 - [MongoDB Tutorial For Beginners | Read the documents from MongoDB collection - Part 03](https://www.youtube.com/watch?v=uPUMFMkfL8M)
-- [MongoDB Tutorial For Beginners | Create Mongodb Database, Collection and insert Documents - Part 02](https://www.youtube.com/watch?v=7GNAVgphXOg)
 <!-- YOUTUBE:END -->
 
 ---

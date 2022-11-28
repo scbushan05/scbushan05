@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MongoDB Tutorial For Beginners | Delete a single document from mongodb collection - Part 10](https://www.youtube.com/watch?v=ftmRwF-UKgk)
 - [MongoDB Tutorial For Beginners | Replace document with new document using replaceOne&lpar;&rpar; - Part 09](https://www.youtube.com/watch?v=gfeprtxUAwM)
 - [MongoDB Tutorial For Beginners | Update multiple documents with updateMany&lpar;&rpar; method - Part 08](https://www.youtube.com/watch?v=lJ2PfzFkXI8)
 - [MongoDB Tutorial For Beginners | More about updateOne&lpar;&rpar; method - Part 07](https://www.youtube.com/watch?v=NMc5qXD0ACE)
 - [MongoDB Tutorial For Beginners | Update the document using updateOne&lpar;&rpar; - Part 06](https://www.youtube.com/watch?v=JxeRWxsEjrc)
-- [MongoDB Tutorial For Beginners | Read single document using findOne&lpar;&rpar; - Part 05](https://www.youtube.com/watch?v=L6o31XSc1IY)
 <!-- YOUTUBE:END -->
 
 ---

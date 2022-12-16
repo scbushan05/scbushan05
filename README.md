@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Git Commands List with Examples](https://bushansirgur.in/git-commands-list-with-examples/)
 - [Spring Boot REST API Integration Testing with JUnit 5](https://bushansirgur.in/spring-boot-rest-api-integration-testing-with-junit-5/)
 - [Spring Boot Unit Testing with JUnit Mockito and MockMvc](https://bushansirgur.in/spring-boot-unit-testing-with-junit-mockito-and-mockmvc-3/)
 - [Spring Boot File Upload and Download with Filesystem](https://bushansirgur.in/spring-boot-file-upload-and-download-with-filesystem/)
 - [Spring Boot File Upload and Download with Database](https://bushansirgur.in/spring-boot-file-upload-and-download-with-database/)
-- [Spring Boot Unit Testing with JUnit Mockito and MockMvc](https://bushansirgur.in/spring-boot-unit-testing-with-junit-mockito-and-mockmvc-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

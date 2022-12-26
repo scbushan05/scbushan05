@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Build Real Time REST API with Nodejs and MongoDB &lpar;JWT Authentication&rpar; - Section 1](https://www.youtube.com/watch?v=AtVh_czC9n4)
 - [MongoDB Tutorial For Beginners | Delete multiple documents from mongodb collection - Part 11](https://www.youtube.com/watch?v=FlZ4wM8xHmE)
 - [MongoDB Tutorial For Beginners | Delete a single document from mongodb collection - Part 10](https://www.youtube.com/watch?v=ftmRwF-UKgk)
 - [MongoDB Tutorial For Beginners | Replace document with new document using replaceOne&lpar;&rpar; - Part 09](https://www.youtube.com/watch?v=gfeprtxUAwM)
 - [MongoDB Tutorial For Beginners | Update multiple documents with updateMany&lpar;&rpar; method - Part 08](https://www.youtube.com/watch?v=lJ2PfzFkXI8)
-- [MongoDB Tutorial For Beginners | More about updateOne&lpar;&rpar; method - Part 07](https://www.youtube.com/watch?v=NMc5qXD0ACE)
 <!-- YOUTUBE:END -->
 
 ---

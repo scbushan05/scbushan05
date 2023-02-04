@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Spring Boot Deployment Tutorial - Part 01](https://www.youtube.com/watch?v=E2ScpMM97l4)
 - [Build Real Time REST API with Nodejs and MongoDB &lpar;JWT Authentication&rpar; - Section 4](https://www.youtube.com/watch?v=J-wsPPptFZU)
 - [Build Microservices with Spring Boot and Spring Cloud - Create Insurance Microservice - Chapter 3](https://www.youtube.com/watch?v=S-5sgxp_HHY)
 - [Build Microservices with Spring Boot and Spring Cloud - Create Database and Tables - Chapter 2](https://www.youtube.com/watch?v=6A1DuU7oLBg)
 - [Build Real Time REST API with Nodejs and MongoDB &lpar;JWT Authentication&rpar; - Section 3](https://www.youtube.com/watch?v=t7plspVH7_E)
-- [Build Microservices with Spring Boot and Spring Cloud - Introduction - Chapter 1](https://www.youtube.com/watch?v=olGMOtFVWyI)
 <!-- YOUTUBE:END -->
 
 ---

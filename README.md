@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Adding JavaScript to a Web Page](https://bushansirgur.in/adding-javascript-to-a-web-page/)
 - [Deploy Spring Boot Application to Railway.App Service](https://bushansirgur.in/deploy-spring-boot-application-to-railway-app-service/)
 - [Most Important Commands For A Newbie Linux User](https://bushansirgur.in/most-important-commands-for-a-newbie-linux-user/)
 - [Git Commands List with Examples](https://bushansirgur.in/git-commands-list-with-examples/)
 - [Spring Boot REST API Integration Testing with JUnit 5](https://bushansirgur.in/spring-boot-rest-api-integration-testing-with-junit-5/)
-- [Spring Boot Unit Testing with JUnit Mockito and MockMvc](https://bushansirgur.in/spring-boot-unit-testing-with-junit-mockito-and-mockmvc-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

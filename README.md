@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [React Spring Boot Project Development - Lesson 01 - Introduction](https://www.youtube.com/watch?v=Yc5mLQbQDOU)
 - [Spring Boot Deployment Tutorial - Add Godaddy custom domain to Railway.App - Part 03](https://www.youtube.com/watch?v=axSw17qI-5c)
 - [Spring Boot Deployment Tutorial - Deploy Spring Boot and MySQL to Production - Part 02](https://www.youtube.com/watch?v=F-Y67-DiM9c)
 - [Spring Boot Deployment Tutorial - Part 01](https://www.youtube.com/watch?v=E2ScpMM97l4)
 - [Build Real Time REST API with Nodejs and MongoDB &lpar;JWT Authentication&rpar; - Section 4](https://www.youtube.com/watch?v=J-wsPPptFZU)
-- [Build Microservices with Spring Boot and Spring Cloud - Create Insurance Microservice - Chapter 3](https://www.youtube.com/watch?v=S-5sgxp_HHY)
 <!-- YOUTUBE:END -->
 
 ---

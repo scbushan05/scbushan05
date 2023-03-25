@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [React Spring Boot Project Development - Lesson 04 - Add React Router to the application](https://www.youtube.com/watch?v=-xfhT6sGXvo)
 - [React Spring Boot Project Development - Lesson 03 - Create API endpoint to save the record](https://www.youtube.com/watch?v=Wr4XzAa2ZBc)
 - [React Spring Boot Project Development - Lesson 02 - Display the database records in React app](https://www.youtube.com/watch?v=81MUPB7j5Kk)
 - [React Spring Boot Project Development - Lesson 01 - Introduction](https://www.youtube.com/watch?v=Yc5mLQbQDOU)
 - [Spring Boot Deployment Tutorial - Add Godaddy custom domain to Railway.App - Part 03](https://www.youtube.com/watch?v=axSw17qI-5c)
-- [Spring Boot Deployment Tutorial - Deploy Spring Boot and MySQL to Production - Part 02](https://www.youtube.com/watch?v=F-Y67-DiM9c)
 <!-- YOUTUBE:END -->
 
 ---

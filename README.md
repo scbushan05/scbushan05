@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [React Spring Boot Project Development - Lesson 08 - Create API endpoints for Update, Delete and Read](https://www.youtube.com/watch?v=yWnstShHRQc)
 - [React Spring Boot Project Development - Lesson 07 - Create API endpoints for Update, Delete and Read](https://www.youtube.com/watch?v=CU9LsgjWhLM)
 - [React Spring Boot Project Development - Lesson 06 - Save Notes to the database](https://www.youtube.com/watch?v=bcGAMXQ21e4)
 - [React Spring Boot Project Development - Lesson 05 - Add Formik and TinyMCE](https://www.youtube.com/watch?v=WZ8YQgBz5zQ)
 - [React Spring Boot Project Development - Lesson 04 - Add React Router to the application](https://www.youtube.com/watch?v=-xfhT6sGXvo)
-- [React Spring Boot Project Development - Lesson 03 - Create API endpoint to save the record](https://www.youtube.com/watch?v=Wr4XzAa2ZBc)
 <!-- YOUTUBE:END -->
 
 ---

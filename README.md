@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MySQL Beginner Tutorial - 01 - Connect to MySQL Server from Terminal and MySQL Workbench](https://www.youtube.com/watch?v=5xosYHQsRjg)
 - [React Spring Boot Project Development - Lesson 10 - Update Note from React application](https://www.youtube.com/watch?v=N2Y51ACSiJk)
 - [React Spring Boot Project Development - Lesson 09 - Delete Note from React application](https://www.youtube.com/watch?v=-f8XPHvWlTU)
 - [React Spring Boot Project Development - Lesson 08 - Create API endpoints for Update, Delete and Read](https://www.youtube.com/watch?v=yWnstShHRQc)
 - [React Spring Boot Project Development - Lesson 07 - Create API endpoints for Update, Delete and Read](https://www.youtube.com/watch?v=CU9LsgjWhLM)
-- [React Spring Boot Project Development - Lesson 06 - Save Notes to the database](https://www.youtube.com/watch?v=bcGAMXQ21e4)
 <!-- YOUTUBE:END -->
 
 ---

@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MySQL Beginner Tutorial - 04 - Understand Tables and Columns](https://www.youtube.com/watch?v=dsNox-r2SHc)
 - [MySQL Beginner Tutorial - 03 - Create and Delete Database](https://www.youtube.com/watch?v=D9B3xavWvUU)
 - [MySQL Beginner Tutorial - 02 - Usage of Show Command](https://www.youtube.com/watch?v=5dU7Xch7MwI)
 - [MySQL Beginner Tutorial - 01 - Connect to MySQL Server from Terminal and MySQL Workbench](https://www.youtube.com/watch?v=5xosYHQsRjg)
 - [React Spring Boot Project Development - Lesson 10 - Update Note from React application](https://www.youtube.com/watch?v=N2Y51ACSiJk)
-- [React Spring Boot Project Development - Lesson 09 - Delete Note from React application](https://www.youtube.com/watch?v=-f8XPHvWlTU)
 <!-- YOUTUBE:END -->
 
 ---

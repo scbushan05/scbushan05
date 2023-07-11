@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MySQL Beginner Tutorial - 07 - Displaying the Table Data](https://www.youtube.com/watch?v=jLE36nxaGr8)
 - [MySQL Beginner Tutorial - 06 - Inserting Data into the Table](https://www.youtube.com/watch?v=3pjnjEbYa6Y)
 - [MySQL Beginner Tutorial - 05 - Create Table: Examples](https://www.youtube.com/watch?v=zXgABsli1JU)
 - [MySQL Beginner Tutorial - 04 - Understand Tables and Columns](https://www.youtube.com/watch?v=dsNox-r2SHc)
 - [MySQL Beginner Tutorial - 03 - Create and Delete Database](https://www.youtube.com/watch?v=D9B3xavWvUU)
-- [MySQL Beginner Tutorial - 02 - Usage of Show Command](https://www.youtube.com/watch?v=5dU7Xch7MwI)
 <!-- YOUTUBE:END -->
 
 ---

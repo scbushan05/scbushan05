@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MySQL Beginner Tutorial - 08 - Delete Table and Empty the Records](https://www.youtube.com/watch?v=ky6RoE_KVoc)
 - [Java+Docker: Your Secret Weapon in App Deployment](https://www.youtube.com/watch?v=gEwf2jj7_W8)
 - [MySQL Beginner Tutorial - 07 - Displaying the Table Data](https://www.youtube.com/watch?v=jLE36nxaGr8)
 - [MySQL Beginner Tutorial - 06 - Inserting Data into the Table](https://www.youtube.com/watch?v=3pjnjEbYa6Y)
 - [MySQL Beginner Tutorial - 05 - Create Table: Examples](https://www.youtube.com/watch?v=zXgABsli1JU)
-- [MySQL Beginner Tutorial - 04 - Understand Tables and Columns](https://www.youtube.com/watch?v=dsNox-r2SHc)
 <!-- YOUTUBE:END -->
 
 ---

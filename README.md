@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MySQL Beginner Tutorial - 09 - Single and Multi line comments](https://www.youtube.com/watch?v=8zw2SkYd5Os)
 - [Unbelievable Hack: Simplifying Java Docker Integration](https://www.youtube.com/watch?v=gEwf2jj7_W8)
 - [How to Delete a Table and Erase all Records from Your Database](https://www.youtube.com/watch?v=ky6RoE_KVoc)
 - [How to Display Table Data in MySQL: Step-by-Step Tutorial](https://www.youtube.com/watch?v=jLE36nxaGr8)
 - [A Step-by-Step Guide to Inserting Data into a MySQL Table](https://www.youtube.com/watch?v=3pjnjEbYa6Y)
-- [Simplify MySQL Table Creation with These Real-World Examples](https://www.youtube.com/watch?v=zXgABsli1JU)
 <!-- YOUTUBE:END -->
 
 ---

@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MySQL Beginner Tutorial - 13 - Working with NULL values](https://www.youtube.com/watch?v=vKJjnZE4DfI)
 - [MySQL Beginner Tutorial - 12 - Inserting Values to Different Datatypes](https://www.youtube.com/watch?v=3NIVvSbz_js)
 - [MySQL Beginner Tutorial - 11 - More about Data Types](https://www.youtube.com/watch?v=qQa0O2rqpUI)
 - [MySQL Beginner Tutorial - 10 - Inserting Multiple Records](https://www.youtube.com/watch?v=JV9WcGRURqA)
 - [Master Spring Boot Deployment on Railway.app in No-Time!](https://www.youtube.com/watch?v=fllt_qIlEhI)
-- [MySQL Beginner Tutorial - 09 - Single and Multi line comments](https://www.youtube.com/watch?v=8zw2SkYd5Os)
 <!-- YOUTUBE:END -->
 
 ---

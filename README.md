@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [A Step-by-Step Guide to Updating Records in MySQL Table Like a Pro](https://www.youtube.com/watch?v=2Dbe5ZPAp3U)
 - [Deleting Records from MySQL Tables: A Step-by-Step Guide](https://www.youtube.com/watch?v=2xB0IdEsg-w)
 - [How Aliases Can Enhance Your MySQL Query Results](https://www.youtube.com/watch?v=I0ENziB6TqQ)
 - [WHERE Clause in MySQL: How to Filter Data Like a Pro](https://www.youtube.com/watch?v=zUOXn7c95_o)
 - [MySQL Beginner Tutorial - 16 - Working with Auto Increment](https://www.youtube.com/watch?v=cSwah8HVZXE)
-- [MySQL Beginner Tutorial - 15 - Working with Primary Keys](https://www.youtube.com/watch?v=77ZNhjHAW8A)
 <!-- YOUTUBE:END -->
 
 ---

@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Efficient Data Insertion in MySQL: Utilizing SELECT Query to Populate a Table](https://www.youtube.com/watch?v=wuUDY1yiVuM)
 - [MySQL Record Counting Made Easy: Step-by-Step Tutorial](https://www.youtube.com/watch?v=bskbUQXCAIM)
 - [A Step-by-Step Guide to Updating Records in MySQL Table Like a Pro](https://www.youtube.com/watch?v=2Dbe5ZPAp3U)
 - [Deleting Records from MySQL Tables: A Step-by-Step Guide](https://www.youtube.com/watch?v=2xB0IdEsg-w)
 - [How Aliases Can Enhance Your MySQL Query Results](https://www.youtube.com/watch?v=I0ENziB6TqQ)
-- [WHERE Clause in MySQL: How to Filter Data Like a Pro](https://www.youtube.com/watch?v=zUOXn7c95_o)
 <!-- YOUTUBE:END -->
 
 ---

@@ -55,11 +55,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [MySQL Made Easy: The Complete Guide to Creating and Deleting Databases with Confidence](https://bushansirgur.in/mysql-made-easy-the-complete-guide-to-creating-and-deleting-databases-with-confidence/)
 - [The Ultimate Guide to Using the MySQL SHOW Command for Data Analysis](https://bushansirgur.in/the-ultimate-guide-to-using-the-mysql-show-command-for-data-analysis/)
 - [Adding JavaScript to a Web Page](https://bushansirgur.in/adding-javascript-to-a-web-page/)
 - [Deploy Spring Boot Application to Railway.App Service](https://bushansirgur.in/deploy-spring-boot-application-to-railway-app-service/)
 - [Most Important Commands For A Newbie Linux User](https://bushansirgur.in/most-important-commands-for-a-newbie-linux-user/)
-- [Git Commands List with Examples](https://bushansirgur.in/git-commands-list-with-examples/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

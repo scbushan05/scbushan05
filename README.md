@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MySQL Logical OR Operator: Simplifying Complex Queries](https://www.youtube.com/watch?v=CrzsnyDo6ys)
 - [How to Use the MySQL Logical AND Operator for Advanced Filtering](https://www.youtube.com/watch?v=SK7eTjxNujI)
 - [The Ultimate MySQL Logical NOT Operator Tutorial: Boost Your Query Skills](https://www.youtube.com/watch?v=dviXUnJXbNY)
 - [Efficient Data Insertion in MySQL: Utilizing SELECT Query to Populate a Table](https://www.youtube.com/watch?v=wuUDY1yiVuM)
 - [MySQL Record Counting Made Easy: Step-by-Step Tutorial](https://www.youtube.com/watch?v=bskbUQXCAIM)
-- [A Step-by-Step Guide to Updating Records in MySQL Table Like a Pro](https://www.youtube.com/watch?v=2Dbe5ZPAp3U)
 <!-- YOUTUBE:END -->
 
 ---

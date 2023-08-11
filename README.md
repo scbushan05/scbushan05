@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Boost Your MySQL Skills with Comparison Operators: A Step-by-Step Tutorial](https://www.youtube.com/watch?v=Ln_6eQqdALc)
 - [MySQL LIKE Operator Explained: Everything You Need to Know](https://www.youtube.com/watch?v=nidZL4euuXk)
 - [MySQL Logical OR Operator: Simplifying Complex Queries](https://www.youtube.com/watch?v=CrzsnyDo6ys)
 - [How to Use the MySQL Logical AND Operator for Advanced Filtering](https://www.youtube.com/watch?v=SK7eTjxNujI)
 - [The Ultimate MySQL Logical NOT Operator Tutorial: Boost Your Query Skills](https://www.youtube.com/watch?v=dviXUnJXbNY)
-- [Efficient Data Insertion in MySQL: Utilizing SELECT Query to Populate a Table](https://www.youtube.com/watch?v=wuUDY1yiVuM)
 <!-- YOUTUBE:END -->
 
 ---

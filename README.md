@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Master the Art of Querying Dates and Times in MySQL](https://www.youtube.com/watch?v=ocLSzx2CPdQ)
 - [How to Effectively Use the MySQL IS NULL Operator: Step-by-Step Tutorial](https://www.youtube.com/watch?v=JUjKtbtRUmE)
 - [MySQL IN Operator Explained: Everything You Need to Know](https://www.youtube.com/watch?v=kjEgF2DKgfk)
 - [MySQL Between Operator Explained: Everything You Need to Know](https://www.youtube.com/watch?v=h4gvYFuOXu0)
 - [Boost Your MySQL Skills with Comparison Operators: A Step-by-Step Tutorial](https://www.youtube.com/watch?v=Ln_6eQqdALc)
-- [MySQL LIKE Operator Explained: Everything You Need to Know](https://www.youtube.com/watch?v=nidZL4euuXk)
 <!-- YOUTUBE:END -->
 
 ---

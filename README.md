@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Quick Guide to @ParameterizedTest Annotation](https://www.youtube.com/watch?v=OQ5alqMSLnM)
+- [Optimizing Content Display with MySQL ORDER BY: Best Practices and Examples](https://www.youtube.com/watch?v=gfqRurfv0N4)
 - [Mastering Data Refinement: A Comprehensive Guide to Using MySQL DISTINCT Keyword](https://www.youtube.com/watch?v=-1D6RMHBFYw)
 - [Quick Guide to @Test Annotation](https://www.youtube.com/watch?v=fYBX927Q4DU)
 - [Taking Your MySQL Knowledge to the Next Level: String Functions for Beginners](https://www.youtube.com/watch?v=uVXMea8rUsY)
-- [Master the Art of Querying Dates and Times in MySQL](https://www.youtube.com/watch?v=ocLSzx2CPdQ)
-- [How to Effectively Use the MySQL IS NULL Operator: Step-by-Step Tutorial](https://www.youtube.com/watch?v=JUjKtbtRUmE)
 <!-- YOUTUBE:END -->
 
 ---

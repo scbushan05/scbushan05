@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Quick Guide to @RepeatedTest Annotation](https://www.youtube.com/watch?v=jfY28cp3T2Y)
+- [Unlocking Data Pagination: MySQL LIMIT and OFFSET Explained with Examples](https://www.youtube.com/watch?v=nonoeNp_zbM)
 - [Quick Guide to @ParameterizedTest Annotation](https://www.youtube.com/watch?v=OQ5alqMSLnM)
 - [Optimizing Content Display with MySQL ORDER BY: Best Practices and Examples](https://www.youtube.com/watch?v=gfqRurfv0N4)
 - [Mastering Data Refinement: A Comprehensive Guide to Using MySQL DISTINCT Keyword](https://www.youtube.com/watch?v=-1D6RMHBFYw)
-- [Quick Guide to @Test Annotation](https://www.youtube.com/watch?v=fYBX927Q4DU)
-- [Taking Your MySQL Knowledge to the Next Level: String Functions for Beginners](https://www.youtube.com/watch?v=uVXMea8rUsY)
 <!-- YOUTUBE:END -->
 
 ---

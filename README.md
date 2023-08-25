@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Mastering Data Grouping: In-Depth MySQL GROUP BY Clause Tutorial](https://www.youtube.com/watch?v=rOjLShS_I1o)
 - [Quick Guide to @TestFactory Annotation](https://www.youtube.com/watch?v=PeLEc0K8EKE)
 - [Elevate Your Data Analysis: Comprehensive Guide to MySQL Aggregate Functions](https://www.youtube.com/watch?v=fq--0otnkp0)
 - [Quick Guide to @RepeatedTest Annotation](https://www.youtube.com/watch?v=jfY28cp3T2Y)
 - [Unlocking Data Pagination: MySQL LIMIT and OFFSET Explained with Examples](https://www.youtube.com/watch?v=nonoeNp_zbM)
-- [Quick Guide to @ParameterizedTest Annotation](https://www.youtube.com/watch?v=OQ5alqMSLnM)
 <!-- YOUTUBE:END -->
 
 ---

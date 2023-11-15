@@ -68,9 +68,9 @@
 <!-- YOUTUBE:START -->
 - [Quick Guide to @TestMethodOrder Annotation](https://www.youtube.com/watch?v=nBXYnMlB2Ew)
 - [Quick Guide to @TestClassOrder Annotation](https://www.youtube.com/watch?v=8kAjE8Hggm0)
-- [Using the HAVING Clause in MySQL - Explained with Examples](https://www.youtube.com/watch?v=TjAaRM_y_Fg)
 - [Quick Guide to @Tag Annotation](https://www.youtube.com/watch?v=_pwCjf94cCQ)
 - [Quick Guide to @ExtendWith Annotation](https://www.youtube.com/watch?v=BpNP3bm2aTk)
+- [Quick Guide to @TestFactory Annotation](https://www.youtube.com/watch?v=PeLEc0K8EKE)
 <!-- YOUTUBE:END -->
 
 ---

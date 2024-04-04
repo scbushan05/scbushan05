@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [The Complete SQL Tutorial: Practical Lessons for Real-World Applications - 06](https://www.youtube.com/watch?v=Lz7hhZPinIs)
+- [The Complete SQL Tutorial: Practical Lessons for Real-World Applications - 05](https://www.youtube.com/watch?v=VpmcVSplFvo)
+- [The Complete SQL Tutorial: Practical Lessons for Real-World Applications - 04](https://www.youtube.com/watch?v=avPhgIXV8xQ)
 - [The Complete SQL Tutorial: Practical Lessons for Real-World Applications - 03](https://www.youtube.com/watch?v=JsL5A-W3DmU)
 - [The Complete SQL Tutorial: Practical Lessons for Real-World Applications - 02](https://www.youtube.com/watch?v=KDeOEzX7Ky0)
-- [The Complete SQL Tutorial: Practical Lessons for Real-World Applications - 01](https://www.youtube.com/watch?v=eLfhouAg48A)
-- [Top Java Interview Questions - Part 1](https://www.youtube.com/watch?v=XkbpmNNfTo8)
-- [Quick Guide to @TestMethodOrder Annotation](https://www.youtube.com/watch?v=nBXYnMlB2Ew)
 <!-- YOUTUBE:END -->
 
 ---

@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [The Complete SQL Tutorial: Practical Lessons for Real-World Applications - 11](https://www.youtube.com/watch?v=DCckll_HH7M)
+- [The Complete SQL Tutorial: Practical Lessons for Real-World Applications - 10](https://www.youtube.com/watch?v=Z460DaJQ0BA)
 - [The Complete SQL Tutorial: Practical Lessons for Real-World Applications - 09](https://www.youtube.com/watch?v=bdB0agtd-z8)
 - [The Complete SQL Tutorial: Practical Lessons for Real-World Applications - 08](https://www.youtube.com/watch?v=0YBjwgE5aoQ)
 - [The Complete SQL Tutorial: Practical Lessons for Real-World Applications - 07](https://www.youtube.com/watch?v=jr2VWX7bvOY)
-- [The Complete SQL Tutorial: Practical Lessons for Real-World Applications - 06](https://www.youtube.com/watch?v=Lz7hhZPinIs)
-- [The Complete SQL Tutorial: Practical Lessons for Real-World Applications - 05](https://www.youtube.com/watch?v=VpmcVSplFvo)
 <!-- YOUTUBE:END -->
 
 ---

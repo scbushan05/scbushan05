@@ -66,7 +66,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Java Mapping Library | Use Java Mapstruct Library in Real Time Project [Expense Tracker API]](https://www.youtube.com/watch?v=gpeOIxXOBGg)
+- [Master Java Mapping with MapStruct: Real-Time Project Walkthrough [Expense Tracker API]](https://www.youtube.com/watch?v=gpeOIxXOBGg)
 - [Full Stack Development: React &lpar;Typescript&rpar; and Spring Boot 3 [Full Course]](https://www.youtube.com/watch?v=A9r_fu3QxMk)
 - [Quick Guide to @TestMethodOrder Annotation](https://www.youtube.com/watch?v=nBXYnMlB2Ew)
 - [Quick Guide to @TestClassOrder Annotation](https://www.youtube.com/watch?v=8kAjE8Hggm0)

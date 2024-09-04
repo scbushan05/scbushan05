@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Full Stack Development: React &lpar;Typescript&rpar; and Spring Boot 3 [Full Course] [Part 2]](https://www.youtube.com/watch?v=1S8hb5nPDxc)
 - [TypeScript Crash Course for Busy Developers: Learn in Just a Few Hours](https://www.youtube.com/watch?v=JnQhYerUnDM)
 - [Master Java Mapping with MapStruct: Real-Time Project Walkthrough [Expense Tracker API]](https://www.youtube.com/watch?v=gpeOIxXOBGg)
-- [Full Stack Development: React &lpar;Typescript&rpar; and Spring Boot 3 [Full Course]](https://www.youtube.com/watch?v=A9r_fu3QxMk)
+- [Full Stack Development: React &lpar;Typescript&rpar; and Spring Boot 3 [Full Course] [Part 1]](https://www.youtube.com/watch?v=A9r_fu3QxMk)
 - [Quick Guide to @TestMethodOrder Annotation](https://www.youtube.com/watch?v=nBXYnMlB2Ew)
-- [Quick Guide to @TestClassOrder Annotation](https://www.youtube.com/watch?v=8kAjE8Hggm0)
 <!-- YOUTUBE:END -->
 
 ---

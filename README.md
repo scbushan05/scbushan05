@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Day - 01 | Introduction to Java | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=fpWBO2lhEnI)
 - [B2 Tech Live Stream](https://www.youtube.com/watch?v=0E52e80PQL0)
 - [Full Stack Development: React &lpar;Typescript&rpar; and Spring Boot 3 [Full Course] [Part 2]](https://www.youtube.com/watch?v=1S8hb5nPDxc)
 - [TypeScript Crash Course for Busy Developers: Learn in Just a Few Hours](https://www.youtube.com/watch?v=JnQhYerUnDM)
 - [Master Java Mapping with MapStruct: Real-Time Project Walkthrough [Expense Tracker API]](https://www.youtube.com/watch?v=gpeOIxXOBGg)
-- [Full Stack Development: React &lpar;Typescript&rpar; and Spring Boot 3 [Full Course] [Part 1]](https://www.youtube.com/watch?v=A9r_fu3QxMk)
 <!-- YOUTUBE:END -->
 
 ---

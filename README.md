@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Day - 04 | Write First Java Program | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=63tKLYpRYss)
 - [Day - 03 | Structure of Java Program | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=pnwvJDlstho)
 - [Day - 02 | Java Components | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=cDwkCDH2wJw)
 - [Day - 01 | Introduction to Java | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=fpWBO2lhEnI)
 - [B2 Tech Live Stream](https://www.youtube.com/watch?v=0E52e80PQL0)
-- [Full Stack Development: React &lpar;Typescript&rpar; and Spring Boot 3 [Full Course] [Part 2]](https://www.youtube.com/watch?v=1S8hb5nPDxc)
 <!-- YOUTUBE:END -->
 
 ---

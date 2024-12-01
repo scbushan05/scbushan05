@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Day - 13 | Types of Variables | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=o3ZfAYBIQm8)
 - [Day - 12 | Debugging Java Program | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=U-xAF6ir5AE)
 - [Day - 11 | Examples on Methods | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=IRBFgZAVtGw)
 - [Day - 10 | Examples on Methods | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=MixcjEh1Pjs)
 - [Day - 09 | Methods | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=G3WCD-Db-T8)
-- [Day - 08 | Typecasting | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=gVKhu2muqQ0)
 <!-- YOUTUBE:END -->
 
 ---

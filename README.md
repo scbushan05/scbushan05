@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Day - 16 | Ternary and Unary Operators | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=8aK-jzcz0eA)
 - [Day - 15 | Relational &amp; Logical Operators |Free Java Course| #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=SpusLVnGQPk)
 - [Day - 14 | Arithematic Operators | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=1esNVSgout8)
 - [Day - 13 | Types of Variables | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=o3ZfAYBIQm8)
 - [Day - 12 | Debugging Java Program | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=U-xAF6ir5AE)
-- [Day - 11 | Instance Methods | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=IRBFgZAVtGw)
 <!-- YOUTUBE:END -->
 
 ---

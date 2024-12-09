@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Day - 19 | Switch Case and Expressions | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=KKqN2DDIBLc)
 - [Which Command is Used to Compile a Java Program? | Java Quiz | #javashorts #javaquiz #programming](https://www.youtube.com/watch?v=t2cZtbiElCA)
 - [Which Command Checks Java Version? | Java Quiz | #javashorts #javaquiz #programming](https://www.youtube.com/watch?v=UDXb1UfOM38)
 - [Day - 18 | More Control Statements | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=LrQlI6LDh3A)
 - [Day - 17 | Control Statements | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=qyhqhRUo5_M)
-- [Day - 16 | Ternary and Unary Operators | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=8aK-jzcz0eA)
 <!-- YOUTUBE:END -->
 
 ---

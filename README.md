@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Java Quiz: What’s the Result of This Code? | Test Your Programming Skills #shorts](https://www.youtube.com/watch?v=mBMTCTHpke8)
 - [Day - 21 | While Loop | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=PP2h0mUUu4c)
 - [Day - 20 | Switch Expression Examples | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=yuDcX371CEc)
 - [Java Quiz: What’s the Result of This Code? | Test Your Programming Skills #shorts](https://www.youtube.com/watch?v=tvjltIn6pIY)
 - [Java Quiz: Which Command is Used to Run a Java Program? | Quick Coding Tips #shorts](https://www.youtube.com/watch?v=ZAUXENDpHcg)
-- [Day - 19 | Switch Case and Expressions | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=KKqN2DDIBLc)
 <!-- YOUTUBE:END -->
 
 ---

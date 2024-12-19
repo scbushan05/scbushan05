@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Java Quiz: Can you guess the result of the java statement? | Test Your Programming Skills #shorts](https://www.youtube.com/watch?v=gfTcdiTFDb0)
 - [Java Quiz: Can you guess the result of the java statement? | Test Your Programming Skills #shorts](https://www.youtube.com/watch?v=V1RYtZ3F4lE)
 - [Java Quiz: Can you guess the result of the java statement? | Test Your Programming Skills #shorts](https://www.youtube.com/watch?v=tih7YH8C6tU)
 - [Day - 24 | Nested For Loop | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=D53ux11u9YA)
 - [Java Quiz: What’s the Result of This Code? | Test Your Programming Skills #shorts](https://www.youtube.com/watch?v=9JILgCDUcxA)
-- [Day - 23 | For Loop | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=VokldJTQSRk)
 <!-- YOUTUBE:END -->
 
 ---

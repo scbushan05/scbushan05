@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [What is Java in 60 Seconds? 🚀 #javacourse  #shorts #javaexperts  #education #freecourse #subscribe](https://www.youtube.com/watch?v=PHSni34GmoU)
 - [Day - 25 | Star Patterns Programs | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=tCQdz_jnUUM)
 - [Java Quiz: Can you guess the result of the java statement? | Test Your Programming Skills #shorts](https://www.youtube.com/watch?v=gfTcdiTFDb0)
 - [Java Quiz: Can you guess the result of the java statement? | Test Your Programming Skills #shorts](https://www.youtube.com/watch?v=V1RYtZ3F4lE)
 - [Java Quiz: Can you guess the result of the java statement? | Test Your Programming Skills #shorts](https://www.youtube.com/watch?v=tih7YH8C6tU)
-- [Day - 24 | Nested For Loop | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=D53ux11u9YA)
 <!-- YOUTUBE:END -->
 
 ---

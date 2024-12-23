@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Software Developer Path for 4 Year Degree #education #softwaredevelopment #subscribe #coding](https://www.youtube.com/watch?v=iU8uvljYwrY)
 - [Why Are Graduates Struggling to Code? #tips #shorts #coding #education #subscribe](https://www.youtube.com/watch?v=rh7JdvJ0VrE)
 - [How to Crack campus interview?🔥 #interview #javacourse #coding #education #tips #subscribe #shorts](https://www.youtube.com/watch?v=xvz0yeNXtZc)
 - [What is Java in 60 Seconds? 🚀 #javacourse  #shorts #javaexperts  #education #freecourse #subscribe](https://www.youtube.com/watch?v=PHSni34GmoU)
 - [Day - 25 | Star Patterns Programs | Free Java Course | #javacourse #2024 #learning #freecourse](https://www.youtube.com/watch?v=tCQdz_jnUUM)
-- [Java Quiz: Can you guess the result of the java statement? | Test Your Programming Skills #shorts](https://www.youtube.com/watch?v=gfTcdiTFDb0)
 <!-- YOUTUBE:END -->
 
 ---

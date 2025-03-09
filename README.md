@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [🚀 Full Stack Food Delivery App with React, Spring Boot, MongoDB, AWS, RazorPay | Complete Tutorial](https://www.youtube.com/watch?v=7eZtiuhgIgc)
 - [🔥 Build a Portfolio Website with Java, Spring Boot, Thymeleaf &amp; Bootstrap | Full Project Tutorial](https://www.youtube.com/watch?v=VblUvEC_yig)
 - [Top 3 Mistakes Freshers Make in Coding Interviews #coding #interview #shorts #subscribe #mistakes](https://www.youtube.com/watch?v=u3D1AV_9_qc)
 - [5 Tips to Start Your Career in Full Stack Development #fullstackdev #fullstack #shorts #subscribe](https://www.youtube.com/watch?v=1gJiXcI1hGQ)
 - [What is SAAS in 45 seconds? Software as a service #education #softwaredevelopment #subscribe #coding](https://www.youtube.com/watch?v=Lj5KpXKbJe4)
+- [Day - 26 | Introduction to Class &amp; Objects | Free Java Course |#javacourse #2025 #coding #freecourse](https://www.youtube.com/watch?v=_S3ACpJfbg8)
 <!-- YOUTUBE:END -->
 
 ---

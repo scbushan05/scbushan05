@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Build a Video Call App in Minutes with ZEGOCLOUD | Video Call SDK &amp; API](https://www.youtube.com/watch?v=zSOmJCSy9TY)
 - [Freelance Retail Billing Software: React, Spring Boot, MySQL, Bootstrap 5 | Full Stack Project 2025](https://www.youtube.com/watch?v=_UNE39gZrV4)
 - [🚀 Full Stack Food Delivery App with React, Spring Boot, MongoDB, AWS, RazorPay | Complete Tutorial](https://www.youtube.com/watch?v=7eZtiuhgIgc)
 - [🔥 Build a Portfolio Website with Java, Spring Boot, Thymeleaf &amp; Bootstrap | Full Project Tutorial](https://www.youtube.com/watch?v=VblUvEC_yig)
 - [Top 3 Mistakes Freshers Make in Coding Interviews #coding #interview #shorts #subscribe #mistakes](https://www.youtube.com/watch?v=u3D1AV_9_qc)
-- [5 Tips to Start Your Career in Full Stack Development #fullstackdev #fullstack #shorts #subscribe](https://www.youtube.com/watch?v=1gJiXcI1hGQ)
 <!-- YOUTUBE:END -->
 
 ---

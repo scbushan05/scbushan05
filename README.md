@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🚀 Deploy Full Stack React + Spring Boot + MongoDB App to Netlify &amp; Railway | &lpar;Free &amp; Easy&rpar; 🔥](https://www.youtube.com/watch?v=DM748yduRRw)
 - [🔐 Build Full Stack Authentication System with Spring Boot &amp; React | Email OTP + JWT | Full Project](https://www.youtube.com/watch?v=ewGbjpFmRbw)
 - [Build a Video Call App in Minutes with ZEGOCLOUD | Video Call SDK &amp; API](https://www.youtube.com/watch?v=zSOmJCSy9TY)
 - [Spring Boot and React Project | Full Stack Project 2025 | College Project | Freelance Project](https://www.youtube.com/watch?v=_UNE39gZrV4)
 - [🚀 Full Stack Food Delivery App with React, Spring Boot, MongoDB, AWS, RazorPay | Complete Tutorial](https://www.youtube.com/watch?v=7eZtiuhgIgc)
-- [🔥 Build a Portfolio Website with Java, Spring Boot, Thymeleaf &amp; Bootstrap | Full Project Tutorial](https://www.youtube.com/watch?v=VblUvEC_yig)
 <!-- YOUTUBE:END -->
 
 ---

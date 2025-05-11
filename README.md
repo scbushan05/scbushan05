@@ -66,7 +66,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Build AI 🤖 Background Remover SaaS App | React + Tailwind +Spring Boot + MySQL Full-Stack Project 🔥](https://www.youtube.com/watch?v=jnY9PWhmQSc)
+- [Build AI 🤖 Background Remover SAAS App | React + Tailwind + Clerk + Spring Boot Full-Stack Project 🔥](https://www.youtube.com/watch?v=jnY9PWhmQSc)
 - [🚀 Deploy Full Stack React + Spring Boot + MongoDB App to Netlify &amp; Railway | &lpar;Free &amp; Easy&rpar; 🔥](https://www.youtube.com/watch?v=DM748yduRRw)
 - [🔐 Build Full Stack Authentication System with Spring Boot &amp; React | Email OTP + JWT | Full Project](https://www.youtube.com/watch?v=ewGbjpFmRbw)
 - [Build a Video Call App in Minutes with ZEGOCLOUD | Video Call SDK &amp; API](https://www.youtube.com/watch?v=zSOmJCSy9TY)

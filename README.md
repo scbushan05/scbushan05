@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Full-Stack Ghibli AI Art Generator | Complete Portfolio Project with React &amp; Spring Boot &lpar;2025&rpar;](https://www.youtube.com/watch?v=VTPyi6c4Vp8)
 - [Invoice Generator using React + Spring Boot + MongoDB | PDF Export,Email, Download | College Project](https://www.youtube.com/watch?v=YJcL-Dj-zkA)
 - [🔥 Build a Stunning Developer Portfolio with Spring Boot + Thymeleaf | Portfolio Step by Step 2025](https://www.youtube.com/watch?v=GPspntaB1pg)
 - [🔥Spring Boot Mini Project - Todo App with Beautiful UI | Thymeleaf + MySQL + Bootstrap for Beginners](https://www.youtube.com/watch?v=_H5mqb40Yro)
 - [Build AI 🤖 Background Remover SAAS App | React + Tailwind + Clerk + Full Stack College Project 🔥](https://www.youtube.com/watch?v=jnY9PWhmQSc)
-- [🚀 Deploy Full Stack React + Spring Boot + MongoDB App to Netlify &amp; Railway | &lpar;Free &amp; Easy&rpar; 🔥](https://www.youtube.com/watch?v=DM748yduRRw)
 <!-- YOUTUBE:END -->
 
 ---

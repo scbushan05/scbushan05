@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Musify &lpar;Spotify Clone&rpar;: Project Installation Guide - React + Spring Boot  + MongoDB](https://www.youtube.com/watch?v=QATTNNlJbEU)
 - [Musify &lpar;Spotify Clone&rpar;: Deploy Full Stack App to Cloud - React + Spring Boot  + MongoDB](https://www.youtube.com/watch?v=LTScYpAcj80)
 - [Musify &lpar;Spotify Clone&rpar;: Next Generation Music Streaming App - React + Spring Boot  + MongoDB](https://www.youtube.com/watch?v=vImpqDRRfF8)
 - [🔥 Build a File Sharing App | React + Spring Boot + MongoDB + Tailwind CSS | Full Stack Project 2025](https://www.youtube.com/watch?v=QgYTbdlob70)
 - [Build Money Manager with React + Spring  Boot + MySQL | Deploy to Render &amp; Netlify | College Project](https://www.youtube.com/watch?v=RtMezvuOKE0)
-- [Full-Stack Ghibli AI Art Generator | Complete Portfolio Project with React &amp; Spring Boot &lpar;2025&rpar;](https://www.youtube.com/watch?v=VTPyi6c4Vp8)
 <!-- YOUTUBE:END -->
 
 ---

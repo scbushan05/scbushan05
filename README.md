@@ -66,7 +66,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Musify &lpar;Spotify Clone&rpar;: Music Streaming App - React + Spring Boot  + MongoDB | Portfolio Project](https://www.youtube.com/watch?v=HotT3L5Bvko)
+- [Musify &lpar;Spotify Clone&rpar;: Portfolio Project using React, Tailwind, Spring Boot, Mongodb, IntelliJ IDEA](https://www.youtube.com/watch?v=HotT3L5Bvko)
 - [🔥 Setup File Sharing App | React + Spring Boot + MongoDB + Tailwind CSS | Full Stack Project 2025](https://www.youtube.com/watch?v=pYNGrtoE1xc)
 - [Musify &lpar;Spotify Clone&rpar;: Project Installation Guide - React + Spring Boot  + MongoDB](https://www.youtube.com/watch?v=QATTNNlJbEU)
 - [Musify &lpar;Spotify Clone&rpar;: Deploy Full Stack App to Cloud - React + Spring Boot  + MongoDB](https://www.youtube.com/watch?v=LTScYpAcj80)

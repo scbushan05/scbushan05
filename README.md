@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Full‑Stack Resume Builder Tutorial &lpar;React + Spring Boot&rpar; — Razorpay Payments, JWT Auth, PDF Download](https://www.youtube.com/watch?v=KT0CvHh5i28)
 - [Musify &lpar;Spotify Clone&rpar;: Portfolio Project using React, Tailwind, Spring Boot, Mongodb, IntelliJ IDEA](https://www.youtube.com/watch?v=HotT3L5Bvko)
 - [🔥 Setup File Sharing App | React + Spring Boot + MongoDB + Tailwind CSS | Full Stack Project 2025](https://www.youtube.com/watch?v=pYNGrtoE1xc)
 - [Musify &lpar;Spotify Clone&rpar;: Project Installation Guide - React + Spring Boot  + MongoDB](https://www.youtube.com/watch?v=QATTNNlJbEU)
 - [Musify &lpar;Spotify Clone&rpar;: Deploy Full Stack App to Cloud - React + Spring Boot  + MongoDB](https://www.youtube.com/watch?v=LTScYpAcj80)
-- [🔥 Build a File Sharing App | React + Spring Boot + MongoDB + Tailwind CSS | Full Stack Project 2025](https://www.youtube.com/watch?v=QgYTbdlob70)
 <!-- YOUTUBE:END -->
 
 ---

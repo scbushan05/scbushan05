@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Claude Code Complete Guide: VS Code, IntelliJ, Terminal, Desktop &amp; Web Installation Steps 2026](https://www.youtube.com/watch?v=d28vQhWxPY0)
 - [Build COMPLETE Grocery App with React + Spring Boot + Stripe + Razorpay | Build using Github Copilot](https://www.youtube.com/watch?v=Tk_txz1fhHo)
 - [Full‑Stack Resume Builder Tutorial &lpar;React + Spring Boot&rpar; — Razorpay Payments, JWT Auth, PDF Download](https://www.youtube.com/watch?v=KT0CvHh5i28)
 - [Musify &lpar;Spotify Clone&rpar;: Portfolio Project using React, Tailwind, Spring Boot, Mongodb, IntelliJ IDEA](https://www.youtube.com/watch?v=HotT3L5Bvko)
 - [🔥 Setup File Sharing App | React + Spring Boot + MongoDB + Tailwind CSS | Full Stack Project 2025](https://www.youtube.com/watch?v=pYNGrtoE1xc)
-- [Musify &lpar;Spotify Clone&rpar;: Project Installation Guide - React + Spring Boot  + MongoDB](https://www.youtube.com/watch?v=QATTNNlJbEU)
 <!-- YOUTUBE:END -->
 
 ---

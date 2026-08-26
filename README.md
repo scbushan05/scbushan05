@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [LeetCode #344 Reverse String | Java Two Pointer Solution](https://www.youtube.com/watch?v=Bp3NAjLGy0c)
 - [LeetCode #167 Two Sum II Explained | Two Pointer | Java Solution](https://www.youtube.com/watch?v=EKaiUENSSUc)
 - [LeetCode #1 Two Sum Explained | Java HashMap Solution](https://www.youtube.com/watch?v=hSUk7Npn1GQ)
 - [Claude Code Complete Guide: VS Code, IntelliJ, Terminal, Desktop &amp; Web Installation Steps 2026](https://www.youtube.com/watch?v=d28vQhWxPY0)
 - [Build COMPLETE Grocery App with React + Spring Boot + Stripe + Razorpay | Build using Github Copilot](https://www.youtube.com/watch?v=Tk_txz1fhHo)
-- [Full‑Stack Resume Builder Tutorial &lpar;React + Spring Boot&rpar; — Razorpay Payments, JWT Auth, PDF Download](https://www.youtube.com/watch?v=KT0CvHh5i28)
 <!-- YOUTUBE:END -->
 
 ---

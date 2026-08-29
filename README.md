@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [LeetCode #283 Move Zeroes | Java Two Pointer Solution](https://www.youtube.com/watch?v=rl7qJewdet4)
 - [LeetCode #26 Remove Duplicates from Sorted Array | Java Solution | Two Pointer](https://www.youtube.com/watch?v=Jhtd0SZuU_Q)
 - [LeetCode #796 Rotate String | Java Solution | s + s Trick](https://www.youtube.com/watch?v=Q8-8r-c-Uhg)
 - [LeetCode #344 Reverse String | Java Two Pointer Solution](https://www.youtube.com/watch?v=Bp3NAjLGy0c)
 - [LeetCode #167 Two Sum II Explained | Two Pointer | Java Solution](https://www.youtube.com/watch?v=EKaiUENSSUc)
-- [LeetCode #1 Two Sum Explained | Java HashMap Solution](https://www.youtube.com/watch?v=hSUk7Npn1GQ)
 <!-- YOUTUBE:END -->
 
 ---

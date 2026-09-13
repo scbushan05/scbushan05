@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [LeetCode #66 Plus One | Java Solution | Right-to-Left Approach](https://www.youtube.com/watch?v=X2XcQlE9h04)
 - [LeetCode #33 Search in Rotated Sorted Array | Java Binary Search](https://www.youtube.com/watch?v=xc2aH8RjkUM)
 - [LeetCode #20 Valid Parentheses | Java Stack Solution](https://www.youtube.com/watch?v=KglbhfKr6pI)
 - [LeetCode #169 Majority Element | Java | Boyer-Moore Voting Algorithm](https://www.youtube.com/watch?v=wYdKfrUQt44)
 - [LeetCode #485 Max Consecutive Ones | Java Solution](https://www.youtube.com/watch?v=xVphasyQed8)
-- [LeetCode #35 Search Insert Position | Java Binary Search Solution](https://www.youtube.com/watch?v=Fxi_o51fbiQ)
 <!-- YOUTUBE:END -->
 
 ---
